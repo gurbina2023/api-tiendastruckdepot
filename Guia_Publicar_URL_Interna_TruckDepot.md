@@ -1,5 +1,7 @@
 # Publicar el verificador en una URL para los agentes
 
+> **⚠️ ACTUALIZACIÓN (julio 2026):** el proyecto ahora se publica en **Railway** y el token de Mapbox **ya no va dentro del HTML**: vive únicamente en el servidor, como variable de entorno `MAPBOX_TOKEN` (pestaña *Variables* del servicio en Railway). La búsqueda de direcciones la hace el servidor a través del endpoint `/geocode`, así que los agentes no ven ni ingresan ningún token, y el token **no debe llevar restricción de URL** en Mapbox (las peticiones salen del servidor, no de una página web). Los pasos de abajo describen el método anterior (archivo estático con token incrustado) y se conservan solo como referencia.
+
 Objetivo: dejar el archivo **`index.html`** en una dirección web (URL) para que los agentes de servicio al cliente solo la abran y busquen direcciones, **sin configurar nada**. El administrador lo hace **una sola vez**.
 
 El motor de búsqueda de direcciones es **Mapbox**. El **token de Mapbox ya viene puesto** dentro de `index.html`, así que en principio solo falta **publicarlo** y **restringir el token a tu URL** para que nadie más pueda usarlo.

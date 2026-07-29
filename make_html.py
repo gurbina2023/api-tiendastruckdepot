@@ -1,19 +1,9 @@
 # -*- coding: utf-8 -*-
-import json, os
+import json
 
-# El token de Mapbox NO se guarda en el repositorio (GitHub bloquea el push
-# si detecta credenciales). Se lee de la variable de entorno MAPBOX_TOKEN o
-# del archivo local mapbox_token.txt (ignorado por git). Si no hay ninguno,
-# el HTML sale con token vacío y cada agente puede pegar el suyo en el navegador.
-def _leer_token():
-    tok = os.environ.get("MAPBOX_TOKEN", "").strip()
-    if not tok and os.path.exists("mapbox_token.txt"):
-        with open("mapbox_token.txt", encoding="utf-8") as f:
-            tok = f.read().strip()
-    return tok
-
-MAPBOX_TOKEN = _leer_token()
-
+# El token de Mapbox NO aparece en el HTML: la geocodificación la hace el
+# servidor (server.py, endpoint /geocode) usando la variable de entorno
+# MAPBOX_TOKEN. El navegador de los usuarios nunca ve el token.
 payload = json.load(open("payload.json", encoding="utf-8"))
 n_branches = len(payload["branches"])
 n_places = len(payload["index"])
@@ -93,20 +83,12 @@ HTML = r"""<!DOCTYPE html>
           <input type="text" id="addr" placeholder="Ej.: 5a avenida 10-00 zona 10, Guatemala" onkeydown="if(event.key==='Enter')searchAddress()">
           <button class="btn" onclick="searchAddress()">Buscar</button>
         </div>
-        <div id="gkeyStatus" class="hint" style="margin-top:6px"></div>
+        <div id="gkeyStatus" class="hint" style="margin-top:6px">Escribe la dirección y pulsa <b>Buscar</b>.</div>
 
         <details id="advBox" style="margin-top:8px">
-          <summary style="cursor:pointer;font-size:13px;color:#555"><b>Opciones y token de Mapbox</b></summary>
-          <div style="margin-top:10px">
-            <div class="hint"><b>Token de Mapbox</b> — pégalo una vez para buscar direcciones aquí mismo:</div>
-            <div class="toolbar" style="margin-top:6px">
-              <input type="text" id="gkey" placeholder="Tu token de Mapbox (pk...)">
-              <button class="btn" onclick="saveKey()">Guardar</button>
-            </div>
-            <div class="hint">Se guarda solo en este navegador. Consíguelo gratis en <a href="https://account.mapbox.com/access-tokens/" target="_blank">account.mapbox.com → Access tokens ↗</a>. Restringe el token por <b>URL</b> a la dirección donde publiques el archivo (ver guía). Si abres el archivo localmente, deja el token sin restricción de URL. Si cambias el token, recarga la página.</div>
-          </div>
+          <summary style="cursor:pointer;font-size:13px;color:#555"><b>Más opciones</b></summary>
           <div style="margin-top:12px">
-            <div class="hint"><b>Sin token</b>: ábrela en Google Maps y pega las coordenadas.</div>
+            <div class="hint"><b>Alternativa</b>: ábrela en Google Maps y pega las coordenadas.</div>
             <div class="toolbar" style="margin-top:6px"><button class="btn sec" onclick="openGoogle()">Abrir en Google Maps ↗</button></div>
             <div class="toolbar">
               <input type="text" id="coords" placeholder="Pega coordenadas o el enlace de Google" onkeydown="if(event.key==='Enter')checkCoords()">
@@ -141,14 +123,8 @@ HTML = r"""<!DOCTYPE html>
 </div>
 
 <script>
-/* ==================== CONFIGURACIÓN ====================
-   El token de Mapbox se inyecta al generar este archivo con make_html.py
-   (desde la variable de entorno MAPBOX_TOKEN o el archivo mapbox_token.txt).
-   Si queda vacío (""), cada agente puede pegar su token en el navegador.
-   Publica este archivo en una URL y restringe el token por "URL restrictions"
-   a esa URL (ver la guía de publicación).                                   */
-const CONFIG = { mapboxToken: "__MAPBOX_TOKEN__" };
-/* ================================================================================= */
+/* La búsqueda de direcciones se hace a través del servidor (endpoint /geocode);
+   el token de Mapbox vive solo en el servidor y nunca llega a este navegador. */
 const DATA = /*DATA*/;
 const COLOR = {}; DATA.branches.forEach(b=>COLOR[b.name]=b.color);
 const norm = s => (s||"").normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
@@ -253,36 +229,16 @@ function pip(lng,lat,ring){ let inside=false;
     if(((yi>lat)!==(yj>lat)) && (lng<(xj-xi)*(lat-yi)/(yj-yi)+xi)) inside=!inside; } return inside; }
 function inFeature(lng,lat,g){ if(g.type==='Polygon')return pip(lng,lat,g.coordinates[0]);
   if(g.type==='MultiPolygon')return g.coordinates.some(p=>pip(lng,lat,p[0])); return false; }
-/* ---- geocodificador de Mapbox (Geocoding API v6) ---- */
-const TKEY='td_mapbox_token';
-function getToken(){ const c=((CONFIG&&CONFIG.mapboxToken)||'').trim(); if(c) return c;
-  try{ return (localStorage.getItem(TKEY)||'').trim(); }catch(e){ return ''; } }
-function saveKey(){ const k=document.getElementById('gkey').value.trim();
-  try{ if(k) localStorage.setItem(TKEY,k); else localStorage.removeItem(TKEY); }catch(e){}
-  refreshKeyStatus();
-  document.getElementById('result').innerHTML='<div class="card muted">Token guardado en este navegador. Pulsa <b>Buscar</b>.</div>'; }
-function refreshKeyStatus(){ const adminTok=((CONFIG&&CONFIG.mapboxToken)||'').trim(); const k=getToken();
-  const el=document.getElementById('gkeyStatus'); const g=document.getElementById('gkey');
-  try{ if(g && !adminTok){ const ls=(localStorage.getItem(TKEY)||'').trim(); if(ls) g.value=ls; } }catch(e){}
-  if(!el) return;
-  el.innerHTML = k
-    ? ('🔑 Búsqueda con <b>Mapbox activada</b>'+(adminTok?' (configurada por el administrador)':'')+'. Escribe la dirección y pulsa <b>Buscar</b>.')
-    : 'Escribe la dirección y pulsa <b>Buscar</b>. Para geocodificar aquí mismo, agrega tu <b>token de Mapbox</b> en <b>“Opciones y token de Mapbox”</b>. Sin token, usa <b>Abrir en Google Maps ↗</b> y pega las coordenadas.'; }
-
+/* ---- geocodificador: el servidor consulta Mapbox por nosotros (/geocode).
+        El token queda solo en el servidor; el navegador nunca lo ve. ---- */
 function searchAddress(){
   const q=document.getElementById('addr').value.trim(); const box=document.getElementById('result');
   if(!q){ box.innerHTML='<div class="card muted">Escribe una dirección.</div>'; return; }
-  const tok=getToken();
-  if(!tok){
-    box.innerHTML='<div class="card muted">Para buscar aquí mismo, agrega tu <b>token de Mapbox</b> en <b>“Opciones y token de Mapbox”</b>. Mientras tanto: pulsa <b>Abrir en Google Maps ↗</b>, copia las coordenadas y pégalas en <b>Verificar</b>.</div>';
-    const a=document.getElementById('advBox'); if(a) a.open=true; return;
-  }
-  box.innerHTML='<div class="card muted">Buscando con Mapbox…</div>';
-  const url='https://api.mapbox.com/search/geocode/v6/forward?q='+encodeURIComponent(q)
-    +'&access_token='+encodeURIComponent(tok)+'&country=gt&limit=1&language=es';
-  fetch(url).then(function(r){ return r.json().then(function(d){ return {ok:r.ok, st:r.status, d:d}; }); })
+  box.innerHTML='<div class="card muted">Buscando dirección…</div>';
+  fetch('geocode?q='+encodeURIComponent(q))
+   .then(function(r){ return r.json().then(function(d){ return {ok:r.ok, st:r.status, d:d}; }); })
    .then(function(o){
-     if(!o.ok){ box.innerHTML='<div class="card muted">Mapbox rechazó la consulta ('+o.st+'): '+((o.d&&o.d.message)||'')+'. Revisa el token o su restricción de URL.</div>'; return; }
+     if(!o.ok){ box.innerHTML='<div class="card muted">No se pudo buscar la dirección ('+o.st+'): '+((o.d&&o.d.message)||'')+'. Usa <b>Abrir en Google Maps ↗</b> y pega las coordenadas (en <b>Más opciones</b>).</div>'; const a=document.getElementById('advBox'); if(a) a.open=true; return; }
      const f=o.d && o.d.features && o.d.features[0];
      if(!f){ box.innerHTML='<div class="card muted">Mapbox no encontró esa dirección. Agrega detalle (zona, municipio, departamento).</div>'; return; }
      const c=(f.geometry && f.geometry.coordinates) || f.center;
@@ -290,7 +246,7 @@ function searchAddress(){
      const label=(p.full_address || p.place_formatted || p.name || f.place_name || 'Ubicación');
      showPoint(c[1], c[0], String(label).split(',').slice(0,2).join(','));
    })
-   .catch(function(e){ box.innerHTML='<div class="card muted">No se pudo consultar Mapbox (revisa el token o la conexión). Usa <b>Abrir en Google Maps ↗</b> + pegar coordenadas.</div>';
+   .catch(function(e){ box.innerHTML='<div class="card muted">No se pudo conectar con el servidor de búsqueda. Usa <b>Abrir en Google Maps ↗</b> y pega las coordenadas (en <b>Más opciones</b>).</div>';
      const a=document.getElementById('advBox'); if(a) a.open=true; });
 }
 
@@ -332,15 +288,13 @@ function quickOSM(){ const q=document.getElementById('addr').value.trim(); const
      showPoint(+a[0].lat,+a[0].lon, a[0].display_name.split(',').slice(0,2).join(',')); })
    .catch(e=>{ box.innerHTML='<div class="card muted">Sin conexión para OpenStreetMap. Usa el botón <b>Google Maps ↗</b> y pega las coordenadas.</div>'; }); }
 
-initMap(); buildLegend(); refreshKeyStatus();
+initMap(); buildLegend();
 </script>
 </body>
 </html>
 """
 
-HTML = HTML.replace("/*DATA*/", data_js).replace("__MAPBOX_TOKEN__", MAPBOX_TOKEN)
-if not MAPBOX_TOKEN:
-    print("AVISO: sin token de Mapbox (define MAPBOX_TOKEN o crea mapbox_token.txt). El HTML sale con token vacío.")
+HTML = HTML.replace("/*DATA*/", data_js)
 for fn in ("Verificador_Cobertura_TruckDepot.html", "index.html"):
     with open(fn, "w", encoding="utf-8") as f:
         f.write(HTML)
