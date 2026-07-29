@@ -1,0 +1,8 @@
+# Secretos / credenciales — nunca subir al repositorio
+mapbox_token.txt
+*.env
+.env*
+
+# Python
+__pycache__/
+*.pyc
