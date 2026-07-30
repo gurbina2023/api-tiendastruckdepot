@@ -44,7 +44,7 @@ HTML = r"""<!DOCTYPE html>
   .row .b{ font-weight:600; }
   .badge{ margin-left:auto; font-size:12px; font-weight:700; padding:3px 9px; border-radius:20px; color:#fff; white-space:nowrap; }
   .muted{ color:#888; font-size:13px; }
-  .btn{ background:var(--rojo); color:#fff; border:0; padding:9px 12px; border-radius:8px; font-weight:600; cursor:pointer; font-size:14px; }
+  .btn{ background:var(--rojo); color:#fff; border:0; padding:9px 12px; border-radius:8px; font-weight:600; cursor:pointer; font-size:14px; white-space:nowrap; }
   .btn.sec{ background:#e9e9ee; color:#333; }
   .legend label{ display:flex; align-items:center; gap:8px; font-size:13px; padding:3px 0; cursor:pointer; }
   .legend .sw{ width:14px; height:14px; border-radius:3px; flex:none; }
@@ -82,15 +82,12 @@ HTML = r"""<!DOCTYPE html>
         <div class="toolbar" style="margin-top:6px">
           <input type="text" id="addr" placeholder="Ej.: 5a avenida 10-00 zona 10, Guatemala" onkeydown="if(event.key==='Enter')searchAddress()">
           <button class="btn" onclick="searchAddress()">Buscar</button>
+          <button class="btn sec" onclick="clearLocation()" title="Quitar el marcador del mapa y borrar la búsqueda">✕ Limpiar</button>
         </div>
         <div id="gkeyStatus" class="hint" style="margin-top:6px">Escribe la dirección y pulsa <b>Buscar</b>.</div>
 
         <details id="advBox" style="margin-top:8px">
           <summary style="cursor:pointer;font-size:13px;color:#555"><b>Más opciones</b></summary>
-          <div style="margin-top:12px">
-            <div class="hint"><b>Limpiar</b>: quita el marcador del mapa y borra la búsqueda actual.</div>
-            <div class="toolbar" style="margin-top:6px"><button class="btn sec" onclick="clearLocation()">🧹 Limpiar ubicación</button></div>
-          </div>
           <div style="margin-top:12px">
             <div class="hint"><b>Alternativa</b>: ábrela en Google Maps y pega las coordenadas.</div>
             <div class="toolbar" style="margin-top:6px"><button class="btn sec" onclick="openGoogle()">Abrir en Google Maps ↗</button></div>
