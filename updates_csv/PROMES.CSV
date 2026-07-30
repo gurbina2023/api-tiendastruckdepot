@@ -1,0 +1,582 @@
+﻿Sucursal,Tienda (nombre oficial),Lat tienda,Lon tienda,Promesa de entrega,Minutos,Banda de tiempo,Destino,Tipo de destino,Departamento,Municipio,Sección/Depto. en lámina,Latitud,Longitud,"Coordenadas (lat, lon)",Confianza coordenada,Verificar en Google Maps,Lámina
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Guatemala,Guatemala,,14.651921,-90.42969,"14.651921, -90.42969",Exacta (tienda),Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,45 min,45,Hasta 45 min,Colonia Galilea,Colonia,Guatemala,Guatemala,,14.672,-90.475,"14.672, -90.475",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,45 min,45,Hasta 45 min,Kilómetro 6,Punto carretera,Guatemala,Guatemala,,14.656,-90.49,"14.656, -90.49",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,45 min,45,Hasta 45 min,Kilómetro 7,Punto carretera,Guatemala,Guatemala,,14.661,-90.483,"14.661, -90.483",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,45 min,45,Hasta 45 min,Kilómetro 8,Punto carretera,Guatemala,Guatemala,,14.666,-90.476,"14.666, -90.476",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,45 min,45,Hasta 45 min,Llano largo,Colonia,Guatemala,Guatemala,,14.675,-90.47,"14.675, -90.47",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,45 min,45,Hasta 45 min,Lo de Rodriguez,Colonia,Guatemala,Guatemala,,14.67,-90.48,"14.67, -90.48",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,El chato,Aldea,Guatemala,Palencia,,14.68,-90.45,"14.68, -90.45",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,Gran Cañón,Colonia,Guatemala,Guatemala,,14.678,-90.455,"14.678, -90.455",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,La Maya,Aldea,Guatemala,Palencia,,14.687,-90.425,"14.687, -90.425",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,Las Conchas,Aldea,Guatemala,Palencia,,14.682,-90.435,"14.682, -90.435",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,Los Olivos,Colonia,Guatemala,Guatemala,,14.676,-90.46,"14.676, -90.46",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,Pinares,Aldea,Guatemala,Palencia,,14.685,-90.44,"14.685, -90.44",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,1 hr,60,Hasta 1 hr,San Rafael,Aldea,Guatemala,Palencia,,14.69,-90.43,"14.69, -90.43",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Agua Caliente,Aldea,Guatemala,San José del Golfo,,14.7,-90.4,"14.7, -90.4",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Agua linda,Aldea,Guatemala,Palencia,,14.695,-90.42,"14.695, -90.42",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Aldea plan grande,Aldea,Guatemala,Palencia,,14.67,-90.34,"14.67, -90.34",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,El Manzanote,Aldea,Guatemala,Palencia,,14.68,-90.32,"14.68, -90.32",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,El Prado,Colonia,Guatemala,Guatemala,,14.665,-90.465,"14.665, -90.465",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,El fiscal,Aldea,El Progreso,Sanarate,,14.7,-90.3,"14.7, -90.3",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,El triunfo,Aldea,Guatemala,Palencia,,14.71,-90.29,"14.71, -90.29",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Laguna Monja Blanca,Aldea,Guatemala,Palencia,,14.65,-90.33,"14.65, -90.33",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Lomas de norte,Colonia,Guatemala,Guatemala,,14.69,-90.47,"14.69, -90.47",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Los Mixcos,Aldea,El Progreso,San Antonio La Paz,,14.7333,-90.25,"14.7333, -90.25",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Palencia,Municipio,Guatemala,Palencia,,14.66,-90.36,"14.66, -90.36",Alta,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Sabanarriba,Aldea,Guatemala,Palencia,,14.69,-90.38,"14.69, -90.38",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,San Antonio la Paz,Municipio,El Progreso,San Antonio La Paz,,14.75,-90.2833,"14.75, -90.2833",Alta,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,San Jose el Golfo,Municipio,Guatemala,San José del Golfo,,14.7833,-90.3833,"14.7833, -90.3833",Alta,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Zona 16,Zona,Guatemala,Guatemala,,14.605,-90.46,"14.605, -90.46",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Zona 24,Zona,Guatemala,Guatemala,,14.654,-90.47,"14.654, -90.47",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Zona 25,Zona,Guatemala,Guatemala,,14.648,-90.456,"14.648, -90.456",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,2 hrs,120,Hasta 2 hrs,Zona 6,Zona,Guatemala,Guatemala,,14.656,-90.495,"14.656, -90.495",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,Aldea el paraíso,Aldea,Guatemala,Palencia,,14.63,-90.4,"14.63, -90.4",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,Aldea las ovejas,Aldea,El Progreso,San Agustín Acasaguastlán,,14.93,-89.97,"14.93, -89.97",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,Contreras,Aldea,Guatemala,Palencia,,14.64,-90.38,"14.64, -90.38",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,El jícaro,Municipio,El Progreso,El Jícaro,,14.9167,-89.9333,"14.9167, -89.9333",Alta,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,El rancho,Aldea,El Progreso,San Agustín Acasaguastlán,,14.9167,-89.9833,"14.9167, -89.9833",Media,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,Fraijanes,Municipio,Guatemala,Fraijanes,,14.4667,-90.4333,"14.4667, -90.4333",Alta,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,Las anonas,Aldea,El Progreso,El Jícaro,,14.9,-89.95,"14.9, -89.95",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,Puertas Negras,Aldea,Guatemala,Palencia,,14.62,-90.39,"14.62, -90.39",Baja,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,San Agustín acasaguastlan,Municipio,El Progreso,San Agustín Acasaguastlán,,14.95,-89.9667,"14.95, -89.9667",Alta,Ver en mapa,10
+ATLÁNTICO,Truck Depot Salida a el Atlántico,14.651921,-90.42969,3 hrs,180,Hasta 3 hrs,San José Pinula,Municipio,Guatemala,San José Pinula,,14.55,-90.4167,"14.55, -90.4167",Alta,Ver en mapa,10
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Chimaltenango,Chimaltenango,,14.638492,-90.785318,"14.638492, -90.785318",Exacta (tienda),Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,45 min,45,Hasta 45 min,El Tejar,Municipio,Chimaltenango,El Tejar,,14.65,-90.795,"14.65, -90.795",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,1 hr,60,Hasta 1 hr,Chimaltenango,Municipio,Chimaltenango,Chimaltenango,,14.662,-90.819,"14.662, -90.819",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,1 hr,60,Hasta 1 hr,Parramos,Municipio,Chimaltenango,Parramos,,14.6,-90.8,"14.6, -90.8",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,1 hr,60,Hasta 1 hr,San Andrés Itzapa,Municipio,Chimaltenango,San Andrés Itzapa,,14.6167,-90.85,"14.6167, -90.85",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,1 hr,60,Hasta 1 hr,Sumpango,Municipio,Sacatepéquez,Sumpango,,14.6333,-90.7333,"14.6333, -90.7333",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,1 hr,60,Hasta 1 hr,Zaragoza,Municipio,Chimaltenango,Zaragoza,,14.65,-90.8833,"14.65, -90.8833",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,Alotenango,Municipio,Sacatepéquez,Alotenango,,14.4833,-90.8083,"14.4833, -90.8083",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,Antigua Guatemala,Municipio,Sacatepéquez,Antigua Guatemala,,14.5586,-90.7295,"14.5586, -90.7295",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,Jocotenango,Municipio,Sacatepéquez,Jocotenango,,14.575,-90.74,"14.575, -90.74",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,Patzicía,Municipio,Chimaltenango,Patzicía,,14.6333,-90.9333,"14.6333, -90.9333",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,San Martín Jilotepeque,Municipio,Chimaltenango,San Martín Jilotepeque,,14.7833,-90.8,"14.7833, -90.8",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,Santa Apolonia,Municipio,Chimaltenango,Santa Apolonia,,14.7833,-91.0333,"14.7833, -91.0333",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,2 hrs,120,Hasta 2 hrs,Santa Cruz Balanyá,Municipio,Chimaltenango,Santa Cruz Balanyá,,14.7,-90.95,"14.7, -90.95",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Acatenango,Municipio,Chimaltenango,Acatenango,,14.55,-90.9333,"14.55, -90.9333",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Alotenango,Municipio,Sacatepéquez,Alotenango,Sacatepéquez,14.4833,-90.8083,"14.4833, -90.8083",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Ciudad Vieja,Municipio,Sacatepéquez,Ciudad Vieja,Sacatepéquez,14.5167,-90.7667,"14.5167, -90.7667",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Patzún,Municipio,Chimaltenango,Patzún,,14.6833,-91.0167,"14.6833, -91.0167",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Pochuta,Municipio,Chimaltenango,San Miguel Pochuta,,14.5333,-91.1,"14.5333, -91.1",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,San José Poaquíl,Municipio,Chimaltenango,San José Poaquíl,,14.8167,-90.9333,"14.8167, -90.9333",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,San Juan Comalapa,Municipio,Chimaltenango,San Juan Comalapa,,14.7333,-90.8833,"14.7333, -90.8833",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,San Juan Sacatepéquez,Municipio,Guatemala,San Juan Sacatepéquez,Sacatepéquez,14.7186,-90.6442,"14.7186, -90.6442",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,San Lucas Sacatepéquez,Municipio,Sacatepéquez,San Lucas Sacatepéquez,Sacatepéquez,14.6,-90.65,"14.6, -90.65",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Santa Lucia Milpas Altas,Municipio,Sacatepéquez,Santa Lucía Milpas Altas,Sacatepéquez,14.5833,-90.6833,"14.5833, -90.6833",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Santa María de Jesús,Municipio,Sacatepéquez,Santa María de Jesús,Sacatepéquez,14.5,-90.7167,"14.5, -90.7167",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Tecpán,Municipio,Chimaltenango,Tecpán Guatemala,,14.7667,-91,"14.7667, -91.0",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,3 hrs,180,Hasta 3 hrs,Yepocapa,Municipio,Chimaltenango,San Pedro Yepocapa,,14.5,-90.9667,"14.5, -90.9667",Alta,Ver en mapa,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,24 hrs,1440,24 hrs,CEDI ESC,Categoría interna,,,,,,,N/A,,4
+CHIMALTENANGO,Truck Depot Chimaltenango,14.638492,-90.785318,24 hrs,1440,24 hrs,CEDI GTM,Categoría interna,,,,,,,N/A,,4
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Alta Verapaz,Cobán,,15.461544,-90.378661,"15.461544, -90.378661",Exacta (tienda),Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 1,Zona,Alta Verapaz,Cobán,,15.4708,-90.3711,"15.4708, -90.3711",Media,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 10,Zona,Alta Verapaz,Cobán,,15.48,-90.366,"15.48, -90.366",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 11,Zona,Alta Verapaz,Cobán,,15.462,-90.375,"15.462, -90.375",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 12,Zona,Alta Verapaz,Cobán,,15.476,-90.362,"15.476, -90.362",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 2,Zona,Alta Verapaz,Cobán,,15.474,-90.374,"15.474, -90.374",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 3,Zona,Alta Verapaz,Cobán,,15.468,-90.368,"15.468, -90.368",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 4,Zona,Alta Verapaz,Cobán,,15.475,-90.367,"15.475, -90.367",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 5,Zona,Alta Verapaz,Cobán,,15.466,-90.376,"15.466, -90.376",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 6,Zona,Alta Verapaz,Cobán,,15.478,-90.372,"15.478, -90.372",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 7,Zona,Alta Verapaz,Cobán,,15.464,-90.37,"15.464, -90.37",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 8,Zona,Alta Verapaz,Cobán,,15.472,-90.379,"15.472, -90.379",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,45 min,45,Hasta 45 min,Zona 9,Zona,Alta Verapaz,Cobán,,15.469,-90.363,"15.469, -90.363",Baja,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,1 hr,60,Hasta 1 hr,San Juan Chamelco,Municipio,Alta Verapaz,San Juan Chamelco,,15.4278,-90.3278,"15.4278, -90.3278",Alta,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,1 hr,60,Hasta 1 hr,San Pedro Carchá,Municipio,Alta Verapaz,San Pedro Carchá,,15.475,-90.3111,"15.475, -90.3111",Alta,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,1 hr,60,Hasta 1 hr,Santa Cruz Verapaz,Municipio,Alta Verapaz,Santa Cruz Verapaz,,15.3781,-90.4083,"15.3781, -90.4083",Alta,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,2 hrs,120,Hasta 2 hrs,Purulha,Municipio,Baja Verapaz,Purulhá,,15.2333,-90.2333,"15.2333, -90.2333",Alta,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,2 hrs,120,Hasta 2 hrs,Sn Cristóbal Verapaz,Municipio,Alta Verapaz,San Cristóbal Verapaz,,15.3708,-90.4778,"15.3708, -90.4778",Alta,Ver en mapa,13
+COBÁN,Truck Depot Cobán,15.461544,-90.378661,2 hrs,120,Hasta 2 hrs,Tactíc,Municipio,Alta Verapaz,Tactic,,15.3208,-90.3542,"15.3208, -90.3542",Alta,Ver en mapa,13
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Escuintla,Escuintla,,14.28448,-90.790093,"14.28448, -90.790093",Exacta (tienda),Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,45 min,45,Hasta 45 min,Carr. Puerto Km 70,Punto carretera,Escuintla,Masagua,,14.165,-90.83,"14.165, -90.83",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,45 min,45,Hasta 45 min,Centro de Escuintla,Cabecera,Escuintla,Escuintla,,14.305,-90.785,"14.305, -90.785",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,45 min,45,Hasta 45 min,Masagua Km. 65,Punto carretera,Escuintla,Masagua,,14.2028,-90.8331,"14.2028, -90.8331",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,1 hr,60,Hasta 1 hr,Autopista Palín,Punto carretera,Escuintla,Palín Grande,,14.4,-90.7,"14.4, -90.7",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,1 hr,60,Hasta 1 hr,Carr. Antigua Guatemala,Punto carretera,Escuintla,Escuintla,,14.38,-90.77,"14.38, -90.77",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,1 hr,60,Hasta 1 hr,Masagua Km 80,Punto carretera,Escuintla,Masagua,,14.11,-90.84,"14.11, -90.84",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,1 hr,60,Hasta 1 hr,Siquinalá,Municipio,Escuintla,Siquinalá,,14.3167,-90.9667,"14.3167, -90.9667",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,2 hrs,120,Hasta 2 hrs,La Democracia,Municipio,Escuintla,La Democracia,,14.2167,-90.9333,"14.2167, -90.9333",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,2 hrs,120,Hasta 2 hrs,Palín Centro,Aldea,Escuintla,Palín Grande,,14.4,-90.7,"14.4, -90.7",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,2 hrs,120,Hasta 2 hrs,Puerto Iztapa,Municipio,Escuintla,Iztapa,,13.9333,-90.7083,"13.9333, -90.7083",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,2 hrs,120,Hasta 2 hrs,Puerto San Jose,Municipio,Escuintla,San José,,13.93,-90.82,"13.93, -90.82",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,2 hrs,120,Hasta 2 hrs,Santa Lucia Cotz.,Municipio,Escuintla,Santa Lucía Cotzumalguapa,,14.3333,-91.0167,"14.3333, -91.0167",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,3 hrs,180,Hasta 3 hrs,Cerro Colorado,Aldea,Escuintla,La Gomera,,14.05,-91.1,"14.05, -91.1",Baja,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,3 hrs,180,Hasta 3 hrs,Chiquimulilla,Municipio,Santa Rosa,Chiquimulilla,,14.0833,-90.3833,"14.0833, -90.3833",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,3 hrs,180,Hasta 3 hrs,La Gomera,Municipio,Escuintla,La Gomera,,14.0833,-91.05,"14.0833, -91.05",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,3 hrs,180,Hasta 3 hrs,Sipacate,Municipio,Escuintla,Sipacate,,13.9333,-91.15,"13.9333, -91.15",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,3 hrs,180,Hasta 3 hrs,Taxisco,Municipio,Santa Rosa,Taxisco,,14.0667,-90.4667,"14.0667, -90.4667",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,6 hrs,360,Hasta 6 hrs,Cocales,Aldea,Suchitepéquez,Patulul,,14.3667,-91.2167,"14.3667, -91.2167",Media,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,6 hrs,360,Hasta 6 hrs,La nueva Concepción,Municipio,Escuintla,Nueva Concepción,,14.1917,-91.3,"14.1917, -91.3",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,6 hrs,360,Hasta 6 hrs,Patulul,Municipio,Suchitepéquez,Patulul,,14.4167,-91.1667,"14.4167, -91.1667",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,6 hrs,360,Hasta 6 hrs,Tiquisate,Municipio,Escuintla,Tiquisate,,14.2833,-91.3667,"14.2833, -91.3667",Alta,Ver en mapa,3
+ESCUINTLA,Truck Depot Escuintla,14.28448,-90.790093,24 hrs,1440,24 hrs,Ingenios,Categoría interna,,,,,,,N/A,,3
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Aldea Sebol,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.8667,-89.95,"15.8667, -89.95",Media,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio Cementerio,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.798,-89.87,"15.798, -89.87",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio La Felicidad,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.804,-89.869,"15.804, -89.869",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio La Pedrera,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.801,-89.865,"15.801, -89.865",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio Los Laureles,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.805,-89.866,"15.805, -89.866",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio Magisterio,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.799,-89.868,"15.799, -89.868",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio Morazán,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.803,-89.864,"15.803, -89.864",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Barrio Santa Rosa,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.797,-89.863,"15.797, -89.863",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Calle 2 Fray,Calle,Alta Verapaz,Fray Bartolomé de las Casas,,15.8,-89.8667,"15.8, -89.8667",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,45 min,45,Hasta 45 min,Nueva Libertad,Barrio,Alta Verapaz,Fray Bartolomé de las Casas,,15.802,-89.87,"15.802, -89.87",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Aldea Canlech Chisec,Aldea,Alta Verapaz,Chisec,,15.83,-90.2,"15.83, -90.2",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Aldea Champeguano,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.83,-89.9,"15.83, -89.9",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Aldea Chonacobéja Fray,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.77,-89.9,"15.77, -89.9",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Aldea La Isla Raxruhá,Aldea,Alta Verapaz,Raxruhá,,15.88,-90.01,"15.88, -90.01",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Aldea Nimlacobéja Fray,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.78,-89.92,"15.78, -89.92",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Aldea Tierra Colorada Fray,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.76,-89.85,"15.76, -89.85",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Barrio Concepción Raxruhá,Barrio,Alta Verapaz,Raxruhá,,15.869,-90.036,"15.869, -90.036",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Barrio San José Raxruhá,Barrio,Alta Verapaz,Raxruhá,,15.865,-90.031,"15.865, -90.031",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Barrio Santa María Raxruhá,Barrio,Alta Verapaz,Raxruhá,,15.867,-90.034,"15.867, -90.034",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,Casco Urbano de Chahal,Cabecera,Alta Verapaz,Chahal,,15.7833,-89.5833,"15.7833, -89.5833",Alta,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1 hr,60,Hasta 1 hr,San Antonio Las Cuevas Raxruhá,Aldea,Alta Verapaz,Raxruhá,,15.85,-90.06,"15.85, -90.06",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Arenal,Aldea,Alta Verapaz,Chahal,,15.76,-89.65,"15.76, -89.65",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Bolonco La Ceiba,Aldea,Alta Verapaz,Chahal,,15.82,-89.7,"15.82, -89.7",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Erial del Pilar,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.74,-89.9,"15.74, -89.9",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Naranjal,Aldea,Alta Verapaz,Chahal,,15.8,-89.68,"15.8, -89.68",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Paraíso,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.75,-89.83,"15.75, -89.83",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Santa Rosa,Aldea,Alta Verapaz,Chahal,,15.75,-89.62,"15.75, -89.62",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Aldea Secocmococh,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.82,-89.82,"15.82, -89.82",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,San Agustín Chahal,Cabecera,Alta Verapaz,Chahal,,15.7833,-89.5833,"15.7833, -89.5833",Alta,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,1.5 hrs,90,Hasta 1.5 hrs,Sayaxché,Municipio,Petén,Sayaxché,,16.5167,-90.1833,"16.5167, -90.1833",Alta,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Aldea La Caoba,Aldea,Alta Verapaz,Fray Bartolomé de las Casas,,15.73,-89.95,"15.73, -89.95",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Aldea Paraíso Chisec,Aldea,Alta Verapaz,Chisec,,15.85,-90.25,"15.85, -90.25",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Aldea Playitas Chisec,Aldea,Alta Verapaz,Chisec,,15.87,-90.3,"15.87, -90.3",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Aldea Poza del Danto,Aldea,Alta Verapaz,Chahal,,15.85,-89.5,"15.85, -89.5",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Aldea Xuctzul Chisec,Aldea,Alta Verapaz,Chisec,,15.78,-90.32,"15.78, -90.32",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Cadenas Chahal,Aldea,Alta Verapaz,Chahal,,15.9,-89.3,"15.9, -89.3",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Calle 4 Fray,Calle,Alta Verapaz,Fray Bartolomé de las Casas,,15.8,-89.866,"15.8, -89.866",Baja,Ver en mapa,18
+FRAY BARTOLOMÉ,Truck Depot Fray Bartolomé,15.806301,-89.876726,2 hrs,120,Hasta 2 hrs,Rubel Santo Chisec,Aldea,Alta Verapaz,Chisec,,15.8,-90.25,"15.8, -90.25",Baja,Ver en mapa,18
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Guatemala,Guatemala,,14.567549,-90.548952,"14.567549, -90.548952",Exacta (tienda),Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,45 min,45,Hasta 45 min,Zona 12,Zona,Guatemala,Guatemala,,14.576,-90.545,"14.576, -90.545",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,45 min,45,Hasta 45 min,Zona 21,Zona,Guatemala,Guatemala,,14.562,-90.556,"14.562, -90.556",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Mixco,Municipio,Guatemala,Mixco,,14.6306,-90.6064,"14.6306, -90.6064",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,San Miguel Petapa,Municipio,Guatemala,San Miguel Petapa,,14.5058,-90.5606,"14.5058, -90.5606",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Villa Canales,Municipio,Guatemala,Villa Canales,,14.4806,-90.5322,"14.4806, -90.5322",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Villa Nueva,Municipio,Guatemala,Villa Nueva,,14.5269,-90.5872,"14.5269, -90.5872",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 01,Zona,Guatemala,Guatemala,,14.641,-90.513,"14.641, -90.513",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 02,Zona,Guatemala,Guatemala,,14.647,-90.512,"14.647, -90.512",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 03,Zona,Guatemala,Guatemala,,14.632,-90.523,"14.632, -90.523",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 04,Zona,Guatemala,Guatemala,,14.62,-90.515,"14.62, -90.515",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 05,Zona,Guatemala,Guatemala,,14.612,-90.509,"14.612, -90.509",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 06,Zona,Guatemala,Guatemala,,14.656,-90.495,"14.656, -90.495",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 07,Zona,Guatemala,Guatemala,,14.625,-90.545,"14.625, -90.545",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 08,Zona,Guatemala,Guatemala,,14.611,-90.534,"14.611, -90.534",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 09,Zona,Guatemala,Guatemala,,14.601,-90.515,"14.601, -90.515",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 10,Zona,Guatemala,Guatemala,,14.5935,-90.508,"14.5935, -90.508",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 11,Zona,Guatemala,Guatemala,,14.591,-90.546,"14.591, -90.546",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 13,Zona,Guatemala,Guatemala,,14.585,-90.525,"14.585, -90.525",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 14,Zona,Guatemala,Guatemala,,14.57,-90.506,"14.57, -90.506",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 15,Zona,Guatemala,Guatemala,,14.59,-90.48,"14.59, -90.48",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 17,Zona,Guatemala,Guatemala,,14.635,-90.46,"14.635, -90.46",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,2 hrs,120,Hasta 2 hrs,Zona 19,Zona,Guatemala,Guatemala,,14.652,-90.545,"14.652, -90.545",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,3 hrs,180,Hasta 3 hrs,Zona 16,Zona,Guatemala,Guatemala,,14.605,-90.46,"14.605, -90.46",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,3 hrs,180,Hasta 3 hrs,Zona 18,Zona,Guatemala,Guatemala,,14.67,-90.465,"14.67, -90.465",Media,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,3 hrs,180,Hasta 3 hrs,Zona 24,Zona,Guatemala,Guatemala,,14.654,-90.47,"14.654, -90.47",Baja,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,3 hrs,180,Hasta 3 hrs,Zona 25,Zona,Guatemala,Guatemala,,14.648,-90.456,"14.648, -90.456",Baja,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,Amatitlán,Municipio,Guatemala,Amatitlán,,14.4869,-90.6156,"14.4869, -90.6156",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,CAEX,Categoría interna,,,,,,,N/A,,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,Chinautla,Municipio,Guatemala,Chinautla,,14.7,-90.5,"14.7, -90.5",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,Chuarrancho,Municipio,Guatemala,Chuarrancho,,14.85,-90.4667,"14.85, -90.4667",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,Fraijanes,Municipio,Guatemala,Fraijanes,,14.4667,-90.4333,"14.4667, -90.4333",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,Palencia,Municipio,Guatemala,Palencia,,14.66,-90.36,"14.66, -90.36",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,San Jose Del Golfo,Municipio,Guatemala,San José del Golfo,,14.7833,-90.3833,"14.7833, -90.3833",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,San Juan Sacatepéquez,Municipio,Guatemala,San Juan Sacatepéquez,,14.7186,-90.6442,"14.7186, -90.6442",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,San Pedro Ayampuc,Municipio,Guatemala,San Pedro Ayampuc,,14.7833,-90.45,"14.7833, -90.45",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,San Pedro Sacatepéquez,Municipio,Guatemala,San Pedro Sacatepéquez,,14.6833,-90.6417,"14.6833, -90.6417",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,San Raymundo,Municipio,Guatemala,San Raymundo,,14.7667,-90.5917,"14.7667, -90.5917",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,6 hrs,360,Hasta 6 hrs,Santa Catarina Pinula,Municipio,Guatemala,Santa Catarina Pinula,,14.5722,-90.4917,"14.5722, -90.4917",Alta,Ver en mapa,2
+GUATEMALA,Truck Depot Zona 12,14.567549,-90.548952,48 hrs,2880,48 hrs,Departamentos,Categoría interna,,,,,,,N/A,,2
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Huehuetenango,Huehuetenango,,15.311272,-91.493261,"15.311272, -91.493261",Exacta (tienda),Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 1 Centro,Zona,Huehuetenango,Huehuetenango,,15.3197,-91.4711,"15.3197, -91.4711",Media,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 10 Hospital,Zona,Huehuetenango,Huehuetenango,,15.31,-91.47,"15.31, -91.47",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 11 Chimusinique,Zona,Huehuetenango,Huehuetenango,,15.335,-91.475,"15.335, -91.475",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 2 Minerva,Zona,Huehuetenango,Huehuetenango,,15.323,-91.476,"15.323, -91.476",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 3 Calvario,Zona,Huehuetenango,Huehuetenango,,15.317,-91.468,"15.317, -91.468",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 4 la Joya,Zona,Huehuetenango,Huehuetenango,,15.315,-91.475,"15.315, -91.475",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 5 la terminal,Zona,Huehuetenango,Huehuetenango,,15.325,-91.47,"15.325, -91.47",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 6 Jumaj,Zona,Huehuetenango,Huehuetenango,,15.328,-91.465,"15.328, -91.465",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 7 Brasilia,Zona,Huehuetenango,Huehuetenango,,15.313,-91.48,"15.313, -91.48",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 8 Estadio,Zona,Huehuetenango,Huehuetenango,,15.322,-91.462,"15.322, -91.462",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,45 min,45,Hasta 45 min,Zona 9 Zaculeo,Zona,Huehuetenango,Huehuetenango,,15.33,-91.458,"15.33, -91.458",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,1 hr,60,Hasta 1 hr,Chinacá,Aldea,Huehuetenango,Chiantla,,15.36,-91.44,"15.36, -91.44",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,1 hr,60,Hasta 1 hr,La estancia la Virgen,Aldea,Huehuetenango,Huehuetenango,,15.3,-91.45,"15.3, -91.45",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,1 hr,60,Hasta 1 hr,Malacatancito,Municipio,Huehuetenango,Malacatancito,,15.2333,-91.4833,"15.2333, -91.4833",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,1 hr,60,Hasta 1 hr,Piedras Negras,Aldea,Huehuetenango,Huehuetenango,,15.29,-91.5,"15.29, -91.5",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,1 hr,60,Hasta 1 hr,San Sebastián,Municipio,Huehuetenango,San Sebastián Huehuetenango,,15.3333,-91.5833,"15.3333, -91.5833",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,1 hr,60,Hasta 1 hr,Santa Barbara,Municipio,Huehuetenango,Santa Bárbara,,15.35,-91.6167,"15.35, -91.6167",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,Aguacatan,Municipio,Huehuetenango,Aguacatán,,15.35,-91.3,"15.35, -91.3",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,Chiantla,Municipio,Huehuetenango,Chiantla,,15.35,-91.45,"15.35, -91.45",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,Colotenango,Municipio,Huehuetenango,Colotenango,,15.4,-91.7167,"15.4, -91.7167",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,Ixtahuacan,Municipio,Huehuetenango,San Ildefonso Ixtahuacán,,15.4167,-91.7667,"15.4167, -91.7667",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,Pologua,Aldea,Totonicapán,San Francisco El Alto,,15,-91.43,"15.0, -91.43",Baja,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,San Gaspar,Municipio,Huehuetenango,San Gaspar Ixchil,,15.4,-91.7833,"15.4, -91.7833",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,San Juan Atitán,Municipio,Huehuetenango,San Juan Atitán,,15.4333,-91.6333,"15.4333, -91.6333",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,San Pedro Necta,Municipio,Huehuetenango,San Pedro Necta,,15.5,-91.7667,"15.5, -91.7667",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,San Rafael Petzal,Municipio,Huehuetenango,San Rafael Pétzal,,15.4167,-91.7333,"15.4167, -91.7333",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,2 hrs,120,Hasta 2 hrs,Santiago Chimaltenango,Municipio,Huehuetenango,Santiago Chimaltenango,,15.45,-91.6833,"15.45, -91.6833",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,3 hrs,180,Hasta 3 hrs,Cuilco,Municipio,Huehuetenango,Cuilco,,15.4,-91.95,"15.4, -91.95",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,3 hrs,180,Hasta 3 hrs,La democracia,Municipio,Huehuetenango,La Democracia,,15.5833,-91.8833,"15.5833, -91.8833",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,3 hrs,180,Hasta 3 hrs,La libertad,Municipio,Huehuetenango,La Libertad,,15.5,-91.8667,"15.5, -91.8667",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,3 hrs,180,Hasta 3 hrs,San Juan Ixcoy,Municipio,Huehuetenango,San Juan Ixcoy,,15.6,-91.45,"15.6, -91.45",Alta,Ver en mapa,12
+HUEHUETENANGO,Truck Depot Huehuetenango,15.311272,-91.493261,3 hrs,180,Hasta 3 hrs,Todos santos Cuchumatanes,Municipio,Huehuetenango,Todos Santos Cuchumatán,,15.5,-91.6,"15.5, -91.6",Alta,Ver en mapa,12
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Suchitepéquez,Mazatenango,,14.536095,-91.612376,"14.536095, -91.612376",Exacta (tienda),Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,45 min,45,Hasta 45 min,Mazatenango,Municipio,Suchitepéquez,Mazatenango,,14.535,-91.504,"14.535, -91.504",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,45 min,45,Hasta 45 min,San Gabriel,Municipio,Suchitepéquez,San Gabriel,,14.4667,-91.4833,"14.4667, -91.4833",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,45 min,45,Hasta 45 min,San Lorenzo,Municipio,Suchitepéquez,San Lorenzo,,14.4667,-91.45,"14.4667, -91.45",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,45 min,45,Hasta 45 min,San francisco Zapotitlan,Municipio,Suchitepéquez,San Francisco Zapotitlán,,14.5667,-91.5167,"14.5667, -91.5167",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,1 hr,60,Hasta 1 hr,Cuyotenango,Municipio,Suchitepéquez,Cuyotenango,,14.5333,-91.5667,"14.5333, -91.5667",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,1 hr,60,Hasta 1 hr,Pueblo Nuevo,Municipio,Suchitepéquez,Pueblo Nuevo,,14.6,-91.5333,"14.6, -91.5333",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,1 hr,60,Hasta 1 hr,San bernardino,Municipio,Suchitepéquez,San Bernardino,,14.5333,-91.4667,"14.5333, -91.4667",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,1 hr,60,Hasta 1 hr,Santo Domingo,Municipio,Suchitepéquez,Santo Domingo Suchitepéquez,,14.4667,-91.4167,"14.4667, -91.4167",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,1 hr,60,Hasta 1 hr,Zunilito,Municipio,Suchitepéquez,Zunilito,,14.5833,-91.5333,"14.5833, -91.5333",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,2 hrs,120,Hasta 2 hrs,Samayac,Municipio,Suchitepéquez,Samayac,,14.5667,-91.4667,"14.5667, -91.4667",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,2 hrs,120,Hasta 2 hrs,San Antonio,Municipio,Suchitepéquez,San Antonio Suchitepéquez,,14.5333,-91.4167,"14.5333, -91.4167",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,2 hrs,120,Hasta 2 hrs,San José El Ídolo,Municipio,Suchitepéquez,San José El Ídolo,,14.4333,-91.4833,"14.4333, -91.4833",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,2 hrs,120,Hasta 2 hrs,San Pablo Jocopilas,Municipio,Suchitepéquez,San Pablo Jocopilas,,14.5833,-91.45,"14.5833, -91.45",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,3 hrs,180,Hasta 3 hrs,San Andrés Villa Seca,Municipio,Retalhuleu,San Andrés Villa Seca,Retalhuleu,14.4833,-91.5833,"14.4833, -91.5833",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,3 hrs,180,Hasta 3 hrs,San José la Máquina,Municipio,Suchitepéquez,San José La Máquina,,14.3167,-91.5333,"14.3167, -91.5333",Media,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,3 hrs,180,Hasta 3 hrs,San Miguel Panán,Municipio,Suchitepéquez,San Miguel Panán,,14.5333,-91.35,"14.5333, -91.35",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,3 hrs,180,Hasta 3 hrs,Santa Bárbara,Municipio,Suchitepéquez,Santa Bárbara,,14.4833,-91.2167,"14.4833, -91.2167",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,3 hrs,180,Hasta 3 hrs,Santo Tomás La Unión,Municipio,Suchitepéquez,Santo Tomás La Unión,,14.6167,-91.4167,"14.6167, -91.4167",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,Chicacao,Municipio,Suchitepéquez,Chicacao,,14.55,-91.3333,"14.55, -91.3333",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,Nuevo San Carlos,Municipio,Retalhuleu,Nuevo San Carlos,Retalhuleu,14.5667,-91.7,"14.5667, -91.7",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,Patulul,Municipio,Suchitepéquez,Patulul,,14.4167,-91.1667,"14.4167, -91.1667",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,Rio Bravo,Municipio,Suchitepéquez,Río Bravo,,14.5,-91.2833,"14.5, -91.2833",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,San Felipe,Municipio,Retalhuleu,San Felipe,Retalhuleu,14.6333,-91.5833,"14.6333, -91.5833",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,San Juan Bautista,Municipio,Suchitepéquez,San Juan Bautista,,14.4333,-91.0833,"14.4333, -91.0833",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,San Martín Zapotitlán,Municipio,Retalhuleu,San Martín Zapotitlán,Retalhuleu,14.5833,-91.6167,"14.5833, -91.6167",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,6 hrs,360,Hasta 6 hrs,Santa Cruz Muluá,Municipio,Retalhuleu,Santa Cruz Muluá,Retalhuleu,14.5,-91.65,"14.5, -91.65",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,24 hrs,1440,24 hrs,CEDI ESC,Categoría interna,,,,,,,N/A,,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,24 hrs,1440,24 hrs,CEDI GTM,Categoría interna,,,,,,,N/A,,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,24 hrs,1440,24 hrs,Quetzaltenango,Municipio,Quetzaltenango,Quetzaltenango,Quetzaltenango,14.8347,-91.518,"14.8347, -91.518",Alta,Ver en mapa,5
+MAZATENANGO,Truck Depot Mazatenango,14.536095,-91.612376,24 hrs,1440,24 hrs,Salcajá,Municipio,Quetzaltenango,Salcajá,Quetzaltenango,14.8833,-91.45,"14.8833, -91.45",Alta,Ver en mapa,5
+PETÉN,Truck Depot Petén,16.913388,-89.876468,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Petén,Flores,,16.913388,-89.876468,"16.913388, -89.876468",Exacta (tienda),Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio 3 de Abril,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Bellos Horizontes,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Candelaria,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Caridad,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio El Boulevart,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio El Porvenir,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio El Redentor,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio El Trebol,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio El Triunfo,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio La Paz,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Playa Blanca,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio San Juan,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Villa Concepción,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Villa Hermosa,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio Vista Hermosa,Barrio,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio el Milagro,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio la Democracia,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio la Granja,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Barrio la Hermita,Barrio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Ciudad Satélite,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia 20 de Mayo,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia Barrio Tziquinaja,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia El Bosque,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia Itza,Colonia,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia Modelo,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia Morales,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Colonia Tikal,Colonia,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,El Remate,Aldea,Petén,Flores,,16.9833,-89.7167,"16.9833, -89.7167",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Ixlu,Aldea,Petén,Flores,,16.9667,-89.6833,"16.9667, -89.6833",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Nueva Santa Elena,Colonia,Petén,Flores,,16.923,-89.885,"16.923, -89.885",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Paxcaman,Aldea,Petén,Flores,,16.925,-89.86,"16.925, -89.86",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,San Benito,Municipio,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Santa Elena,Cabecera,Petén,Flores,,16.92,-89.89,"16.92, -89.89",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,45 min,45,Hasta 45 min,Tercera Lotificación,Colonia,Petén,San Benito,,16.9167,-89.9083,"16.9167, -89.9083",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,El Chal (Centro),Cabecera,Petén,El Chal,,16.6667,-89.65,"16.6667, -89.65",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,El Naranjo Flores,Aldea,Petén,Flores,,16.95,-89.8,"16.95, -89.8",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,Jobompiche,Aldea,Petén,San José,,16.98,-89.78,"16.98, -89.78",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,Macache,Aldea,Petén,Dolores,,16.8,-89.6167,"16.8, -89.6167",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Andres,Municipio,Petén,San Andrés,,16.9667,-89.9167,"16.9667, -89.9167",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Antonio,Aldea,Petén,Flores,,16.9,-89.85,"16.9, -89.85",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Francisco,Municipio,Petén,San Francisco,,16.8333,-89.9,"16.8333, -89.9",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Jose,Municipio,Petén,San José,,16.9833,-89.9,"16.9833, -89.9",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Juan Dios,Aldea,Petén,Flores,,16.91,-89.82,"16.91, -89.82",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Miguel,Aldea,Petén,Flores,,16.95,-89.87,"16.95, -89.87",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,San Pedro,Aldea,Petén,Flores,,16.94,-89.84,"16.94, -89.84",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,1 hr,60,Hasta 1 hr,Santa Ana,Municipio,Petén,Santa Ana,,16.8,-89.8167,"16.8, -89.8167",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,Dolores,Municipio,Petén,Dolores,,16.5167,-89.4167,"16.5167, -89.4167",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,El Chal (aldeas),Aldea,Petén,El Chal,,16.6667,-89.65,"16.6667, -89.65",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,El Subin,Aldea,Petén,La Libertad,,16.7,-90.1,"16.7, -90.1",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,La libertad,Municipio,Petén,La Libertad,,16.7833,-90.1167,"16.7833, -90.1167",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,Las Cruces,Municipio,Petén,Las Cruces,,16.6167,-90.3167,"16.6167, -90.3167",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,Melchor de Mencos,Municipio,Petén,Melchor de Mencos,,17.0667,-89.15,"17.0667, -89.15",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,Rancho Alegre,Aldea,Petén,La Libertad,,16.72,-90.05,"16.72, -90.05",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,2 hrs,120,Hasta 2 hrs,San Valentín,Aldea,Petén,Dolores,,16.55,-89.45,"16.55, -89.45",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,La Gloria,Aldea,Petén,La Libertad,,16.75,-90.2,"16.75, -90.2",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,Los Josefinos,Aldea,Petén,La Libertad,,16.8,-90.4,"16.8, -90.4",Media,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,Palestina,Aldea,Petén,La Libertad,,16.7,-90.25,"16.7, -90.25",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,Poptún,Municipio,Petén,Poptún,,16.3333,-89.4167,"16.3333, -89.4167",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,Sabaneta,Aldea,Petén,Flores,,17,-89.8,"17.0, -89.8",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,San Diego (Centro),Aldea,Petén,Dolores,,16.8,-89.7,"16.8, -89.7",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,San Joaquin,Aldea,Petén,San Andrés,,16.99,-89.95,"16.99, -89.95",Baja,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,San Luis,Municipio,Petén,San Luis,,16.2,-89.4333,"16.2, -89.4333",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,Sayaxche,Municipio,Petén,Sayaxché,,16.5167,-90.1833,"16.5167, -90.1833",Alta,Ver en mapa,11
+PETÉN,Truck Depot Petén,16.913388,-89.876468,3 hrs,180,Hasta 3 hrs,Tikal,Sitio,Petén,Flores,,17.222,-89.6237,"17.222, -89.6237",Alta,Ver en mapa,11
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Izabal,Puerto Barrios,,15.693347,-88.590038,"15.693347, -88.590038",Exacta (tienda),Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Barrio el pueblito,Barrio,Izabal,Puerto Barrios,,15.72,-88.595,"15.72, -88.595",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colinas l y II,Colonia,Izabal,Puerto Barrios,,15.733,-88.612,"15.733, -88.612",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia 15 de Abril,Colonia,Izabal,Puerto Barrios,,15.726,-88.61,"15.726, -88.61",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia Bethania,Colonia,Izabal,Puerto Barrios,,15.73,-88.605,"15.73, -88.605",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia Buena Vista,Colonia,Izabal,Puerto Barrios,,15.725,-88.6,"15.725, -88.6",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia Buenos Aires,Colonia,Izabal,Puerto Barrios,,15.731,-88.615,"15.731, -88.615",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia Coviemport,Colonia,Izabal,Puerto Barrios,,15.718,-88.613,"15.718, -88.613",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia Maria Luisa,Colonia,Izabal,Puerto Barrios,,15.728,-88.602,"15.728, -88.602",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia Piedras Negras,Colonia,Izabal,Puerto Barrios,,15.715,-88.608,"15.715, -88.608",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Colonia el Banvi l y II,Colonia,Izabal,Puerto Barrios,,15.735,-88.6,"15.735, -88.6",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Petromaya,Colonia,Izabal,Puerto Barrios,,15.71,-88.61,"15.71, -88.61",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,San Agustin,Colonia,Izabal,Puerto Barrios,,15.74,-88.61,"15.74, -88.61",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,San Andres,Colonia,Izabal,Puerto Barrios,,15.742,-88.615,"15.742, -88.615",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,San Manuel,Colonia,Izabal,Puerto Barrios,,15.745,-88.618,"15.745, -88.618",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,45 min,45,Hasta 45 min,Santo Tomas de Castilla,Puerto,Izabal,Puerto Barrios,,15.7,-88.6167,"15.7, -88.6167",Alta,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Aldea Agua Caliente,Aldea,Izabal,Puerto Barrios,,15.73,-88.66,"15.73, -88.66",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Barrio el Cangrejal,Barrio,Izabal,Puerto Barrios,,15.725,-88.585,"15.725, -88.585",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Barrio el Limonar,Barrio,Izabal,Puerto Barrios,,15.735,-88.59,"15.735, -88.59",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Colonia La Fuerteza,Colonia,Izabal,Puerto Barrios,,15.74,-88.605,"15.74, -88.605",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Colonia Las Palmeras,Colonia,Izabal,Puerto Barrios,,15.738,-88.608,"15.738, -88.608",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Colonia Los Gringos,Colonia,Izabal,Puerto Barrios,,15.736,-88.603,"15.736, -88.603",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Colonia Los Positos,Colonia,Izabal,Puerto Barrios,,15.734,-88.618,"15.734, -88.618",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,El Cafetalito,Aldea,Izabal,Puerto Barrios,,15.755,-88.625,"15.755, -88.625",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,El Inde,Colonia,Izabal,Puerto Barrios,,15.72,-88.625,"15.72, -88.625",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,El Mitch,Colonia,Izabal,Puerto Barrios,,15.745,-88.635,"15.745, -88.635",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Genor,Aldea,Izabal,Puerto Barrios,,15.76,-88.65,"15.76, -88.65",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Las Escobas,Aldea,Izabal,Puerto Barrios,,15.68,-88.64,"15.68, -88.64",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Piedra Parada,Aldea,Izabal,Puerto Barrios,,15.75,-88.63,"15.75, -88.63",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,1 hr,60,Hasta 1 hr,Quebrada Seca,Aldea,Izabal,Puerto Barrios,,15.69,-88.66,"15.69, -88.66",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Champona,Aldea,Izabal,Puerto Barrios,,15.65,-88.7,"15.65, -88.7",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Creek Negro,Aldea,Izabal,Puerto Barrios,,15.75,-88.75,"15.75, -88.75",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Dublín,Aldea,Izabal,Morales,,15.55,-88.78,"15.55, -88.78",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Entre Ríos,Aldea,Izabal,Puerto Barrios,,15.6167,-88.6833,"15.6167, -88.6833",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Machacas,Aldea,Izabal,Puerto Barrios,,15.7833,-88.7833,"15.7833, -88.7833",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Piteros,Aldea,Izabal,Puerto Barrios,,15.7,-88.7,"15.7, -88.7",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Placa l,Aldea,Izabal,Morales,,15.5,-88.8,"15.5, -88.8",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Tenedores,Aldea,Izabal,Morales,,15.5333,-88.75,"15.5333, -88.75",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,2 hrs,120,Hasta 2 hrs,Veracruz,Aldea,Izabal,Morales,,15.52,-88.82,"15.52, -88.82",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Cayuga,Aldea,Izabal,Morales,,15.4,-88.85,"15.4, -88.85",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Cerro Azul,Aldea,Izabal,Morales,,15.42,-88.9,"15.42, -88.9",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Cimarron,Aldea,Izabal,Morales,,15.48,-88.83,"15.48, -88.83",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Darmouth,Aldea,Izabal,Morales,,15.43,-88.87,"15.43, -88.87",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,La Ruidosa,Aldea,Izabal,Morales,,15.4167,-88.8333,"15.4167, -88.8333",Media,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Navajoa,Aldea,Izabal,Morales,,15.45,-88.8,"15.45, -88.8",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Picuatz,Aldea,Izabal,Morales,,15.46,-88.86,"15.46, -88.86",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,3 hrs,180,Hasta 3 hrs,Río Blanco,Aldea,Izabal,Los Amates,,15.35,-88.95,"15.35, -88.95",Baja,Ver en mapa,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,24 hrs,1440,24 hrs,CEDI ESC,Categoría interna,,,,,,,N/A,,7
+PUERTO BARRIOS,Truck Depot Puerto Barrios,15.693347,-88.590038,24 hrs,1440,24 hrs,CEDI GTM,Categoría interna,,,,,,,N/A,,7
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Escuintla,San José,,13.941843,-90.789271,"13.941843, -90.789271",Exacta (tienda),Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,45 min,45,Hasta 45 min,Aldea Puerta de Hierro Pto. Sn Jose,Aldea,Escuintla,San José,,13.95,-90.83,"13.95, -90.83",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,45 min,45,Hasta 45 min,Aldea la Guardianía Pto. Sn Jose,Aldea,Escuintla,San José,,13.955,-90.82,"13.955, -90.82",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,45 min,45,Hasta 45 min,Arizona Carr. Pto.,Aldea,Escuintla,Masagua,,14.05,-90.8,"14.05, -90.8",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,45 min,45,Hasta 45 min,Base Naval Puerto San Jose,Instalación,Escuintla,San José,,13.925,-90.825,"13.925, -90.825",Media,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,45 min,45,Hasta 45 min,Zona 2 Pto. San Jose,Zona,Escuintla,San José,,13.93,-90.82,"13.93, -90.82",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,45 min,45,Hasta 45 min,km. 90 al 115 Puerto San Jose,Punto carretera,Escuintla,Masagua / San José,,14,-90.82,"14.0, -90.82",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1 hr,60,Hasta 1 hr,Base Paracaidista Pto. Sn Jose,Instalación,Escuintla,San José,,13.93,-90.81,"13.93, -90.81",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1 hr,60,Hasta 1 hr,Centro Pto. San Jose,Cabecera,Escuintla,San José,,13.93,-90.82,"13.93, -90.82",Alta,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1 hr,60,Hasta 1 hr,Hasta km 81 carre. a escuintla,Punto carretera,Escuintla,Masagua,,14.1,-90.82,"14.1, -90.82",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1 hr,60,Hasta 1 hr,Otacingo Pto. Sn Jose,Aldea,Escuintla,San José,,13.94,-90.78,"13.94, -90.78",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1 hr,60,Hasta 1 hr,Puerto Iztapa,Municipio,Escuintla,Iztapa,,13.9333,-90.7083,"13.9333, -90.7083",Alta,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1 hr,60,Hasta 1 hr,Puerto Quetzal,Puerto,Escuintla,San José,,13.9222,-90.7861,"13.9222, -90.7861",Alta,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1.5 hrs,90,Hasta 1.5 hrs,Aldea Cuyuta carr. pto San Jose,Aldea,Escuintla,Masagua,,14.1,-90.85,"14.1, -90.85",Media,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1.5 hrs,90,Hasta 1.5 hrs,Aldea la Barrita pto Sn Jose,Aldea,Escuintla,San José,,13.9167,-90.9333,"13.9167, -90.9333",Media,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1.5 hrs,90,Hasta 1.5 hrs,El Conacaste Carr. Monterrico,Aldea,Santa Rosa,Taxisco,,13.95,-90.55,"13.95, -90.55",Baja,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1.5 hrs,90,Hasta 1.5 hrs,Monterrico,Aldea,Santa Rosa,Taxisco,,13.8833,-90.4833,"13.8833, -90.4833",Alta,Ver en mapa,14
+PUERTO QUETZAL,Truck Depot Puerto Quetzal,13.941843,-90.789271,1.5 hrs,90,Hasta 1.5 hrs,Obero Carr. Monterrico,Aldea,Santa Rosa,Taxisco,,13.93,-90.5,"13.93, -90.5",Baja,Ver en mapa,14
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,Almolonga,Municipio,Quetzaltenango,Almolonga,,14.8167,-91.4833,"14.8167, -91.4833",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,Cantel,Municipio,Quetzaltenango,Cantel,,14.8,-91.45,"14.8, -91.45",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,Concepción Chiquirichapa,Municipio,Quetzaltenango,Concepción Chiquirichapa,,14.85,-91.65,"14.85, -91.65",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,La Esperanza,Municipio,Quetzaltenango,La Esperanza,,14.8667,-91.55,"14.8667, -91.55",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,Olintepeque,Municipio,Quetzaltenango,Olintepeque,,14.8833,-91.5167,"14.8833, -91.5167",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,Quetzaltenango ciudad,Cabecera,Quetzaltenango,Quetzaltenango,,14.8347,-91.518,"14.8347, -91.518",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,San Carlos Sija,Municipio,Quetzaltenango,San Carlos Sija,,14.9833,-91.55,"14.9833, -91.55",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,San Francisco La Unión,Municipio,Quetzaltenango,San Francisco La Unión,,14.9167,-91.5167,"14.9167, -91.5167",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,San Juan Ostuncalco,Municipio,Quetzaltenango,San Juan Ostuncalco,,14.8667,-91.6333,"14.8667, -91.6333",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,San Mateo,Municipio,Quetzaltenango,San Mateo,,14.85,-91.5667,"14.85, -91.5667",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,45 min,45,Hasta 45 min,San Miguel Siguila,Municipio,Quetzaltenango,San Miguel Sigüilá,,14.8833,-91.6167,"14.8833, -91.6167",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1 hr,60,Hasta 1 hr,Cajola,Municipio,Quetzaltenango,Cajolá,,14.9,-91.6167,"14.9, -91.6167",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1 hr,60,Hasta 1 hr,Salcajá,Municipio,Quetzaltenango,Salcajá,,14.8833,-91.45,"14.8833, -91.45",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1 hr,60,Hasta 1 hr,San Martin Sacatepéquez,Municipio,Quetzaltenango,San Martín Sacatepéquez,,14.8167,-91.65,"14.8167, -91.65",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1 hr,60,Hasta 1 hr,Zunil,Municipio,Quetzaltenango,Zunil,,14.7833,-91.4833,"14.7833, -91.4833",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1.5 hrs,90,Hasta 1.5 hrs,Cabrican,Municipio,Quetzaltenango,Cabricán,,15.0833,-91.65,"15.0833, -91.65",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1.5 hrs,90,Hasta 1.5 hrs,Huitan,Municipio,Quetzaltenango,Huitán,,15.0167,-91.6167,"15.0167, -91.6167",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,1.5 hrs,90,Hasta 1.5 hrs,Palestina De Los Altos,Municipio,Quetzaltenango,Palestina de Los Altos,,14.9,-91.6833,"14.9, -91.6833",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,2 hrs,120,Hasta 2 hrs,Colomba Costa Cuca,Municipio,Quetzaltenango,Colomba Costa Cuca,,14.7167,-91.7333,"14.7167, -91.7333",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,2 hrs,120,Hasta 2 hrs,San Cristóbal Totonicapán,Municipio,Totonicapán,San Cristóbal Totonicapán,Totonicapán,14.8667,-91.4333,"14.8667, -91.4333",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,2 hrs,120,Hasta 2 hrs,San Francisco El Alto,Municipio,Totonicapán,San Francisco El Alto,Totonicapán,14.9333,-91.45,"14.9333, -91.45",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,2 hrs,120,Hasta 2 hrs,Sibilia,Municipio,Quetzaltenango,Sibilia,,14.9833,-91.6,"14.9833, -91.6",Alta,Ver en mapa,8
+QUETZALTENANGO,Truck Depot Quetzaltenango (Xela),14.858215,-91.513779,24 hrs,1440,24 hrs,Guatemala Ciudad,Cabecera,Guatemala,Guatemala,,14.6349,-90.5069,"14.6349, -90.5069",Alta,Ver en mapa,8
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Chajbal,Cantón,Quiché,Santa Cruz del Quiché,,15.045,-91.14,"15.045, -91.14",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Chicorral,Cantón,Quiché,Santa Cruz del Quiché,,15.04,-91.16,"15.04, -91.16",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Chitatul,Cantón,Quiché,Santa Cruz del Quiché,,15.02,-91.135,"15.02, -91.135",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Colonia Utatlan,Colonia,Quiché,Santa Cruz del Quiché,,15.025,-91.16,"15.025, -91.16",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Colonia los Celajes,Colonia,Quiché,Santa Cruz del Quiché,,15.033,-91.152,"15.033, -91.152",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,La Estancia,Cantón,Quiché,Santa Cruz del Quiché,,15.05,-91.15,"15.05, -91.15",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Lemoa,Aldea,Quiché,Santa Cruz del Quiché,,15,-91.1333,"15.0, -91.1333",Media,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Prados de Santa Rosa,Colonia,Quiché,Santa Cruz del Quiché,,15.035,-91.145,"15.035, -91.145",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,Sepela,Cantón,Quiché,Santa Cruz del Quiché,,15.015,-91.16,"15.015, -91.16",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,"Xatinap I,II,II,IV y V",Cantón,Quiché,Santa Cruz del Quiché,,15.029,-91.155,"15.029, -91.155",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,"Xesic, I,II",Cantón,Quiché,Santa Cruz del Quiché,,15.038,-91.135,"15.038, -91.135",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,45 min,45,Hasta 45 min,"Zona 1,2,3,4 y 5",Zona,Quiché,Santa Cruz del Quiché,,15.0308,-91.1489,"15.0308, -91.1489",Media,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,Chiche,Municipio,Quiché,Chiché,,15.0167,-91.05,"15.0167, -91.05",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,Chichicastenango,Municipio,Quiché,Chichicastenango,,14.9431,-91.1119,"14.9431, -91.1119",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,Chicorral,Cantón,Quiché,Santa Cruz del Quiché,,15.04,-91.16,"15.04, -91.16",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,Panaxit,Aldea,Quiché,Chiché,,15.025,-91.08,"15.025, -91.08",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,Patzite,Municipio,Quiché,Patzité,,14.9833,-91.2,"14.9833, -91.2",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,San Antonio Ilotenango,Municipio,Quiché,San Antonio Ilotenango,,15.0167,-91.2333,"15.0167, -91.2333",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1 hr,60,Hasta 1 hr,San Pedro Jocopilas,Municipio,Quiché,San Pedro Jocopilas,,15.0667,-91.1833,"15.0667, -91.1833",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Casa Blanca,Aldea,Quiché,Santa Cruz del Quiché,,15.06,-91.12,"15.06, -91.12",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Chimente,Aldea,Quiché,Zacualpa,,15.02,-90.93,"15.02, -90.93",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Chinique,Municipio,Quiché,Chinique,,15.0333,-91.0167,"15.0333, -91.0167",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Comitancillo,Aldea,Quiché,Sacapulas,,15.24,-91.05,"15.24, -91.05",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Santa Lucia la Reforma,Municipio,Totonicapán,Santa Lucía La Reforma,,15.05,-91.25,"15.05, -91.25",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Santa Rosa Chujuyub,Aldea,Quiché,Santa Cruz del Quiché,,15.1,-91.05,"15.1, -91.05",Baja,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,1.5 hrs,90,Hasta 1.5 hrs,Zacualpa,Municipio,Quiché,Zacualpa,,15.0333,-90.8833,"15.0333, -90.8833",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,2 hrs,120,Hasta 2 hrs,Canilla,Municipio,Quiché,Canillá,,15.1167,-90.85,"15.1167, -90.85",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,2 hrs,120,Hasta 2 hrs,Los Encuentros,Punto carretera,Sololá,Sololá,,14.7833,-91.2333,"14.7833, -91.2333",Media,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,2 hrs,120,Hasta 2 hrs,Sacapulas,Municipio,Quiché,Sacapulas,,15.2833,-91.0833,"15.2833, -91.0833",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,2 hrs,120,Hasta 2 hrs,San Andrés Sacabaja,Municipio,Quiché,San Andrés Sajcabajá,,15.1667,-90.95,"15.1667, -90.95",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,2 hrs,120,Hasta 2 hrs,San Bartolomé,Municipio,Quiché,San Bartolomé Jocotenango,,15.15,-91.1167,"15.15, -91.1167",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,3.5 hrs,210,Hasta 3.5 hrs,Chicaman,Municipio,Quiché,Chicamán,,15.3667,-90.7833,"15.3667, -90.7833",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,3.5 hrs,210,Hasta 3.5 hrs,Joyabaj,Municipio,Quiché,Joyabaj,,14.9833,-90.8,"14.9833, -90.8",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,3.5 hrs,210,Hasta 3.5 hrs,Nebaj,Municipio,Quiché,Santa María Nebaj,,15.4053,-91.1461,"15.4053, -91.1461",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,3.5 hrs,210,Hasta 3.5 hrs,San Juan Cotzal,Municipio,Quiché,San Juan Cotzal,,15.4333,-91.0333,"15.4333, -91.0333",Alta,Ver en mapa,15
+QUICHÉ,Truck Depot Quiché,15.007625,-91.147802,3.5 hrs,210,Hasta 3.5 hrs,Uspatan,Municipio,Quiché,San Miguel Uspantán,,15.35,-90.8667,"15.35, -90.8667",Alta,Ver en mapa,15
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Retalhuleu,San Sebastián,,14.573889,-91.648056,"14.573889, -91.648056",Exacta (tienda),Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Calzada Las Palmas,Calzada,Retalhuleu,Retalhuleu,,14.54,-91.678,"14.54, -91.678",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Canton Paoj,Cantón,Retalhuleu,San Sebastián,,14.57,-91.655,"14.57, -91.655",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Canton Puca,Cantón,Retalhuleu,San Sebastián,,14.575,-91.66,"14.575, -91.66",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Canton Xula,Cantón,Retalhuleu,San Sebastián,,14.58,-91.65,"14.58, -91.65",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Centro Las chacaras,Aldea,Retalhuleu,San Sebastián,,14.58,-91.66,"14.58, -91.66",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,El Sarco,Aldea,Retalhuleu,San Sebastián,,14.565,-91.67,"14.565, -91.67",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Granja La Montaña,Aldea,Retalhuleu,San Sebastián,,14.585,-91.64,"14.585, -91.64",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,Metro Plaza Km 180.5,Punto carretera,Retalhuleu,San Sebastián,,14.5739,-91.648,"14.5739, -91.648",Media,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,San Luis,Aldea,Retalhuleu,San Sebastián,,14.56,-91.66,"14.56, -91.66",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,45 min,45,Hasta 45 min,San Sebastian,Municipio,Retalhuleu,San Sebastián,,14.5667,-91.65,"14.5667, -91.65",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,Aldea Ocosito,Aldea,Retalhuleu,San Sebastián,,14.58,-91.645,"14.58, -91.645",Media,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,Barrio Monterrey,Barrio,Retalhuleu,Retalhuleu,,14.54,-91.675,"14.54, -91.675",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,Canton Peru,Cantón,Retalhuleu,San Sebastián,,14.555,-91.665,"14.555, -91.665",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,Centro de Retalhuleu,Cabecera,Retalhuleu,Retalhuleu,,14.5361,-91.6778,"14.5361, -91.6778",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,Colonia Las Chacara,Colonia,Retalhuleu,San Sebastián,,14.58,-91.66,"14.58, -91.66",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,"La Galera, San Nicolas",Aldea,Retalhuleu,San Sebastián,,14.55,-91.66,"14.55, -91.66",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,1 hr,60,Hasta 1 hr,Los Cubanitos,Colonia,Retalhuleu,Retalhuleu,,14.545,-91.67,"14.545, -91.67",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,Aldea Cabañas,Aldea,Retalhuleu,Retalhuleu,,14.51,-91.68,"14.51, -91.68",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,Aldea El xab,Aldea,Retalhuleu,Retalhuleu,,14.5,-91.7,"14.5, -91.7",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,Aldea Guarumo,Aldea,Retalhuleu,Retalhuleu,,14.52,-91.7,"14.52, -91.7",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,Caballo Blanco,Aldea,Retalhuleu,Retalhuleu,,14.5,-91.7167,"14.5, -91.7167",Media,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,Champerico,Municipio,Retalhuleu,Champerico,,14.3,-91.9167,"14.3, -91.9167",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,Colonia El Retiro,Colonia,Retalhuleu,Retalhuleu,,14.53,-91.69,"14.53, -91.69",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,El Asintal,Municipio,Retalhuleu,El Asintal,,14.5833,-91.7333,"14.5833, -91.7333",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,El Palmar,Municipio,Quetzaltenango,El Palmar,,14.65,-91.6167,"14.65, -91.6167",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,San Andres Villa Ceca,Municipio,Retalhuleu,San Andrés Villa Seca,,14.4833,-91.5833,"14.4833, -91.5833",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,San Carlos,Municipio,Retalhuleu,Nuevo San Carlos,,14.5667,-91.7,"14.5667, -91.7",Media,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,San Cruz Mulua,Municipio,Retalhuleu,Santa Cruz Muluá,,14.5,-91.65,"14.5, -91.65",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,San Felipe,Municipio,Retalhuleu,San Felipe,,14.6333,-91.5833,"14.6333, -91.5833",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,San Luis,Aldea,Retalhuleu,San Sebastián,,14.56,-91.66,"14.56, -91.66",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,2 hrs,120,Hasta 2 hrs,San Martin Zapotítlan,Municipio,Retalhuleu,San Martín Zapotitlán,,14.5833,-91.6167,"14.5833, -91.6167",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Aldea La Unión,Aldea,Quetzaltenango,Coatepeque,,14.64,-91.87,"14.64, -91.87",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Aldea Miramar,Aldea,Quetzaltenango,Coatepeque,,14.69,-91.88,"14.69, -91.88",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Centro Coatepeque,Cabecera,Quetzaltenango,Coatepeque,,14.7,-91.8667,"14.7, -91.8667",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Circumbalacion Coatepeque,Punto carretera,Quetzaltenango,Coatepeque,,14.705,-91.86,"14.705, -91.86",Media,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Colomba,Municipio,Quetzaltenango,Colomba Costa Cuca,,14.7167,-91.7333,"14.7167, -91.7333",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Flores Costa Cuca,Municipio,Quetzaltenango,Flores Costa Cuca,,14.6667,-91.8167,"14.6667, -91.8167",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Genova,Municipio,Quetzaltenango,Génova,,14.6167,-91.8333,"14.6167, -91.8333",Alta,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Las Delicias,Aldea,Quetzaltenango,Coatepeque,,14.65,-91.86,"14.65, -91.86",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Las Palmas,Aldea,Quetzaltenango,Coatepeque,,14.68,-91.85,"14.68, -91.85",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Las Victorias,Aldea,Quetzaltenango,Coatepeque,,14.66,-91.84,"14.66, -91.84",Baja,Ver en mapa,17
+RETALHULEU,Truck Depot Retalhuleu,14.573889,-91.648056,3 hrs,180,Hasta 3 hrs,Xelaju,Cabecera,Quetzaltenango,Quetzaltenango,,14.8347,-91.518,"14.8347, -91.518",Alta,Ver en mapa,17
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Aldea cantel centro,Aldea,San Marcos,San Marcos,,14.985,-91.795,"14.985, -91.795",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Champollap centro,Aldea,San Marcos,San Marcos,,14.955,-91.81,"14.955, -91.81",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,El rincón centro,Aldea,San Marcos,San Marcos,,14.96,-91.775,"14.96, -91.775",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,La grandeza centro,Municipio,San Marcos,La Reforma,,15.0167,-91.8333,"15.0167, -91.8333",Media,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Las lagunas san marcos centro,Aldea,San Marcos,San Marcos,,14.975,-91.805,"14.975, -91.805",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Palo Gordo,Municipio,San Marcos,Palo Gordo,,14.95,-91.7833,"14.95, -91.7833",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Piedra grande centro,Aldea,San Marcos,San Marcos,,14.98,-91.78,"14.98, -91.78",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Sacuchum centro,Aldea,San Marcos,San Pedro Sacatepéquez,,14.995,-91.735,"14.995, -91.735",Media,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,San Andres Chapil centro,Aldea,San Marcos,San Pedro Sacatepéquez,,14.99,-91.755,"14.99, -91.755",Media,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,San Jose Caben centro,Aldea,San Marcos,San Marcos,,14.945,-91.8,"14.945, -91.8",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,San Marcos Centro,Cabecera,San Marcos,San Marcos,,14.9639,-91.7944,"14.9639, -91.7944",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,San Pedro centro,Cabecera,San Marcos,San Pedro Sacatepéquez,,14.9667,-91.7667,"14.9667, -91.7667",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,San Rafael Soche centro,Aldea,San Marcos,San Marcos,,14.97,-91.82,"14.97, -91.82",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,45 min,45,Hasta 45 min,Terminal de san marcos centro,Punto urbano,San Marcos,San Marcos,,14.9639,-91.7944,"14.9639, -91.7944",Media,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,Aldea san sebastian centro,Aldea,San Marcos,San Marcos,,14.955,-91.76,"14.955, -91.76",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,Aldea serchil centro,Aldea,San Marcos,San Marcos,,14.93,-91.81,"14.93, -91.81",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,Corral grande centro,Aldea,San Marcos,San Marcos,,14.94,-91.77,"14.94, -91.77",Baja,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,Palestina de los altos centro,Municipio,Quetzaltenango,Palestina de Los Altos,,14.9,-91.6833,"14.9, -91.6833",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,San Antonio Sacatepéquez centro,Municipio,San Marcos,San Antonio Sacatepéquez,,14.95,-91.7333,"14.95, -91.7333",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,San Cristóbal cucho centro,Municipio,San Marcos,San Cristóbal Cucho,,14.9167,-91.7833,"14.9167, -91.7833",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,San Lorenzo centro,Municipio,San Marcos,San Lorenzo,,15,-91.7167,"15.0, -91.7167",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1 hr,60,Hasta 1 hr,San Rafael pie de la cuesta centro,Municipio,San Marcos,San Rafael Pie de la Cuesta,,14.9833,-91.9,"14.9833, -91.9",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,Comitancillo,Municipio,San Marcos,Comitancillo,,15.0833,-91.75,"15.0833, -91.75",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,Malacatan,Municipio,San Marcos,Malacatán,,14.9167,-92.05,"14.9167, -92.05",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,Rio Blanco,Municipio,San Marcos,Río Blanco,,15.0667,-91.7333,"15.0667, -91.7333",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,San Jose el rodeo,Municipio,San Marcos,El Rodeo,,14.85,-91.9333,"14.85, -91.9333",Media,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,San Pablo,Municipio,San Marcos,San Pablo,,14.9333,-91.95,"14.9333, -91.95",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,Tajumulco,Municipio,San Marcos,Tajumulco,,15.0833,-91.9167,"15.0833, -91.9167",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,1.5 hrs,90,Hasta 1.5 hrs,Tejutla,Municipio,San Marcos,Tejutla,,15.1167,-91.8,"15.1167, -91.8",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,2 hrs,120,Hasta 2 hrs,Catarina,Municipio,San Marcos,Catarina,,14.85,-92.0667,"14.85, -92.0667",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,2 hrs,120,Hasta 2 hrs,El Tumbador,Municipio,San Marcos,El Tumbador,,14.7833,-91.9333,"14.7833, -91.9333",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,2 hrs,120,Hasta 2 hrs,Ixghiguan,Municipio,San Marcos,Ixchiguán,,15.15,-91.9333,"15.15, -91.9333",Alta,Ver en mapa,16
+SAN MARCOS,Truck Depot San Marcos,14.964945,-91.814053,2 hrs,120,Hasta 2 hrs,Tajumulco,Municipio,San Marcos,Tajumulco,,15.0833,-91.9167,"15.0833, -91.9167",Alta,Ver en mapa,16
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Barranca seca,Aldea,Zacapa,Teculután,,14.97,-89.7,"14.97, -89.7",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Barranco Colorado,Aldea,Zacapa,Teculután,,14.975,-89.745,"14.975, -89.745",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Centro Teculután,Cabecera,Zacapa,Teculután,,14.9931,-89.715,"14.9931, -89.715",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,La Arenera,Aldea,Zacapa,Teculután,,14.99,-89.69,"14.99, -89.69",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,La Paz,Aldea,Zacapa,Teculután,,14.985,-89.725,"14.985, -89.725",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,La vega del Cobán,Aldea,Zacapa,Teculután,,15.005,-89.72,"15.005, -89.72",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Monte Grande,Aldea,Zacapa,Teculután,,14.96,-89.75,"14.96, -89.75",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Pueblo Nuevo,Aldea,Zacapa,Teculután,,15.01,-89.7,"15.01, -89.7",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Puerta de Golpe,Aldea,Zacapa,Teculután,,14.995,-89.755,"14.995, -89.755",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Rio Chiquito,Aldea,Zacapa,Teculután,,15,-89.74,"15.0, -89.74",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,45 min,45,Hasta 45 min,Santa Cruz,Aldea,Zacapa,Teculután,,14.98,-89.73,"14.98, -89.73",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,Casas de Pinto,Aldea,Zacapa,Río Hondo,,15.02,-89.62,"15.02, -89.62",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,El Arco,Aldea,Zacapa,Río Hondo,,15.01,-89.64,"15.01, -89.64",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,El Jute,Aldea,Zacapa,Usumatlán,,14.94,-89.8,"14.94, -89.8",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,La Palmilla,Aldea,Zacapa,Río Hondo,,15.04,-89.6,"15.04, -89.6",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,Pasabien,Aldea,Zacapa,Río Hondo,,14.9833,-89.6667,"14.9833, -89.6667",Media,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,Rio Hondo,Municipio,Zacapa,Río Hondo,,15.0333,-89.5833,"15.0333, -89.5833",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,San Jose,Aldea,Zacapa,Teculután,,14.98,-89.68,"14.98, -89.68",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,Sunzapote,Aldea,Zacapa,Río Hondo,,14.9667,-89.75,"14.9667, -89.75",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,1 hr,60,Hasta 1 hr,Usumatlan,Municipio,Zacapa,Usumatlán,,14.95,-89.7833,"14.95, -89.7833",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Cabañas,Municipio,Zacapa,Cabañas,,14.9167,-89.6167,"14.9167, -89.6167",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Centro Zacapa,Cabecera,Zacapa,Zacapa,,14.9722,-89.5306,"14.9722, -89.5306",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Comunidad Santiago,Aldea,Zacapa,Zacapa,,14.96,-89.55,"14.96, -89.55",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,El Arenal,Aldea,El Progreso,San Agustín Acasaguastlán,,14.94,-89.9,"14.94, -89.9",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,El Jícaro,Municipio,El Progreso,El Jícaro,,14.9167,-89.9333,"14.9167, -89.9333",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,El Rancho,Aldea,El Progreso,San Agustín Acasaguastlán,,14.9167,-89.9833,"14.9167, -89.9833",Media,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,El Rosario,Aldea,El Progreso,San Agustín Acasaguastlán,,14.93,-89.95,"14.93, -89.95",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Estanzuela,Municipio,Zacapa,Estanzuela,,14.9833,-89.5667,"14.9833, -89.5667",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Huité,Municipio,Zacapa,Huité,,14.8833,-89.6833,"14.8833, -89.6833",Alta,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Juan Ponce,Aldea,El Progreso,San Agustín Acasaguastlán,,14.925,-89.92,"14.925, -89.92",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,La Estancia de la Virgen,Aldea,Zacapa,Zacapa,,14.94,-89.56,"14.94, -89.56",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,La Fragua,Aldea,Zacapa,Estanzuela,,14.95,-89.5,"14.95, -89.5",Media,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,La Pepesca,Aldea,Zacapa,Zacapa,,14.95,-89.58,"14.95, -89.58",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,La Reforma,Aldea,Zacapa,Zacapa,,14.95,-89.65,"14.95, -89.65",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Las pozas,Aldea,Zacapa,Zacapa,,14.96,-89.6,"14.96, -89.6",Baja,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,Mayuelas,Aldea,Zacapa,Gualán,,15.0333,-89.4167,"15.0333, -89.4167",Media,Ver en mapa,9
+TECULUTÁN,Truck Depot Teculután,14.993213,-89.71146,2 hrs,120,Hasta 2 hrs,San Cristóbal Acasaguastlán,Municipio,El Progreso,San Cristóbal Acasaguastlán,,14.9186,-89.8869,"14.9186, -89.8869",Alta,Ver en mapa,9
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,10 min,10,Mostrador (0-10 min),Mostrador,Tienda,Guatemala,Villa Nueva,,14.550941,-90.577576,"14.550941, -90.577576",Exacta (tienda),Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,45 min,45,Hasta 45 min,Castañas,Colonia,Guatemala,Villa Nueva,,14.53,-90.595,"14.53, -90.595",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,45 min,45,Hasta 45 min,Catalina Linda Vista,Colonia,Guatemala,Villa Nueva,,14.548,-90.575,"14.548, -90.575",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,45 min,45,Hasta 45 min,"Monte Maria, zona 12",Colonia,Guatemala,Guatemala,,14.576,-90.549,"14.576, -90.549",Media,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,45 min,45,Hasta 45 min,San José VN,Colonia,Guatemala,Villa Nueva,,14.535,-90.58,"14.535, -90.58",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,45 min,45,Hasta 45 min,Villa Nueva Centro,Cabecera,Guatemala,Villa Nueva,,14.5269,-90.5872,"14.5269, -90.5872",Alta,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Bárcenas VN,Aldea,Guatemala,Villa Nueva,,14.53,-90.63,"14.53, -90.63",Media,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Delta Barcena,Colonia,Guatemala,Villa Nueva,,14.533,-90.615,"14.533, -90.615",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,El Frutal,Colonia,Guatemala,Villa Nueva,,14.545,-90.555,"14.545, -90.555",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Linda Vista VN,Colonia,Guatemala,Villa Nueva,,14.548,-90.575,"14.548, -90.575",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Mayan Golf,Colonia,Guatemala,Guatemala,,14.57,-90.535,"14.57, -90.535",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Plan Grande,Aldea,Guatemala,Villa Nueva,,14.52,-90.62,"14.52, -90.62",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Ulises Rojas Zona 3 VN,Colonia,Guatemala,Villa Nueva,,14.535,-90.59,"14.535, -90.59",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,1 hr,60,Hasta 1 hr,Villa Lobos Zona 12,Colonia,Guatemala,Villa Nueva,,14.556,-90.562,"14.556, -90.562",Media,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,Amatitlán Centro,Cabecera,Guatemala,Amatitlán,,14.4869,-90.6156,"14.4869, -90.6156",Alta,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,Ciudad Peronia Zona 8 VN,Colonia,Guatemala,Villa Nueva,,14.52,-90.61,"14.52, -90.61",Media,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,Los Espárragos Amatitlán,Colonia,Guatemala,Amatitlán,,14.495,-90.605,"14.495, -90.605",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,San Cristóbal,Colonia,Guatemala,Mixco,,14.61,-90.59,"14.61, -90.59",Media,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,San Miguel Petapa,Municipio,Guatemala,San Miguel Petapa,,14.5058,-90.5606,"14.5058, -90.5606",Alta,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,Zona 8 Mixco,Zona,Guatemala,Mixco,,14.625,-90.61,"14.625, -90.61",Media,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,2 hrs,120,Hasta 2 hrs,Zona 9 Mixco,Zona,Guatemala,Mixco,,14.635,-90.63,"14.635, -90.63",Baja,Ver en mapa,6
+VILLA LOBOS,Truck Depot Villa Nueva,14.550941,-90.577576,24 hrs,1440,24 hrs,CEDI GTM,Categoría interna,,,,,,,N/A,,6

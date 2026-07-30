@@ -88,6 +88,10 @@ HTML = r"""<!DOCTYPE html>
         <details id="advBox" style="margin-top:8px">
           <summary style="cursor:pointer;font-size:13px;color:#555"><b>Más opciones</b></summary>
           <div style="margin-top:12px">
+            <div class="hint"><b>Limpiar</b>: quita el marcador del mapa y borra la búsqueda actual.</div>
+            <div class="toolbar" style="margin-top:6px"><button class="btn sec" onclick="clearLocation()">🧹 Limpiar ubicación</button></div>
+          </div>
+          <div style="margin-top:12px">
             <div class="hint"><b>Alternativa</b>: ábrela en Google Maps y pega las coordenadas.</div>
             <div class="toolbar" style="margin-top:6px"><button class="btn sec" onclick="openGoogle()">Abrir en Google Maps ↗</button></div>
             <div class="toolbar">
@@ -249,6 +253,14 @@ function searchAddress(){
    .catch(function(e){ box.innerHTML='<div class="card muted">No se pudo conectar con el servidor de búsqueda. Usa <b>Abrir en Google Maps ↗</b> y pega las coordenadas (en <b>Más opciones</b>).</div>';
      const a=document.getElementById('advBox'); if(a) a.open=true; });
 }
+
+function clearLocation(){
+  if(map && selMarker){ map.removeLayer(selMarker); selMarker=null; }
+  document.getElementById('addr').value='';
+  const q=document.getElementById('q'); if(q) q.value='';
+  const m=document.getElementById('matches'); if(m) m.innerHTML='';
+  const c=document.getElementById('coords'); if(c) c.value='';
+  document.getElementById('result').innerHTML='<div class="card muted">Ubicación limpiada. Escribe una nueva dirección y pulsa <b>Buscar</b>.</div>'; }
 
 function openGoogle(){ const q=document.getElementById('addr').value.trim(); if(!q){ document.getElementById('result').innerHTML='<div class="card muted">Escribe primero la dirección del cliente.</div>'; return; }
   window.open('https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(q+' Guatemala'),'_blank'); }

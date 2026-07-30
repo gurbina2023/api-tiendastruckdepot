@@ -4,26 +4,30 @@ import pandas as pd, json, unicodedata
 from shapely.geometry import Point, mapping
 from shapely.ops import unary_union
 
-CSV = "/sessions/zealous-keen-einstein/mnt/uploads/Promesas entregas.csv"
+CSV = "updates_csv/PROMES.CSV"
 
 def norm(s):
     s = unicodedata.normalize("NFD", str(s))
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
     return s.lower().strip()
 
-NAME = {"GUATEMALA":"Guatemala","ESCUINTLA":"Escuintla","CHIMALTENANGO 1 y 2":"Chimaltenango 1 y 2",
+NAME = {"GUATEMALA":"Guatemala","ESCUINTLA":"Escuintla","CHIMALTENANGO":"Chimaltenango",
         "MAZATENANGO":"Mazatenango","VILLA LOBOS":"Villa Lobos","PUERTO BARRIOS":"Puerto Barrios",
         "QUETZALTENANGO":"Quetzaltenango","TECULUTÁN":"Teculután","ATLÁNTICO":"Atlántico","PETÉN":"Petén",
-        "HUEHUETENANGO":"Huehuetenango","COBÁN":"Cobán","PUERTO QUETZAL":"Puerto Quetzal"}
-ORDER = ["Guatemala","Escuintla","Chimaltenango 1 y 2","Mazatenango","Villa Lobos","Puerto Barrios",
-         "Quetzaltenango","Teculután","Atlántico","Petén","Huehuetenango","Cobán","Puerto Quetzal"]
+        "HUEHUETENANGO":"Huehuetenango","COBÁN":"Cobán","PUERTO QUETZAL":"Puerto Quetzal",
+        "FRAY BARTOLOMÉ":"Fray Bartolomé","QUICHÉ":"Quiché","RETALHULEU":"Retalhuleu","SAN MARCOS":"San Marcos"}
+ORDER = ["Guatemala","Escuintla","Chimaltenango","Mazatenango","Villa Lobos","Puerto Barrios",
+         "Quetzaltenango","Teculután","Atlántico","Petén","Huehuetenango","Cobán","Puerto Quetzal",
+         "Fray Bartolomé","Quiché","Retalhuleu","San Marcos"]
 PALETTE = ["#E6194B","#3CB44B","#4363D8","#F58231","#911EB4","#00A8C6",
-           "#F032E6","#7A8B00","#D2691E","#2E8B57","#9A6324","#808000","#000075"]
+           "#F032E6","#7A8B00","#D2691E","#2E8B57","#9A6324","#808000","#000075",
+           "#FFB300","#00695C","#5D4037","#C2185B"]
 COLOR = {b: PALETTE[i] for i, b in enumerate(ORDER)}
 
 # radio de buffer (grados ~ 111 km) por tipo de destino -> "municipio/zona completos"
 BUF = {"Municipio":0.075,"Cabecera":0.075,"Aldea":0.045,"Zona":0.032,"Colonia":0.030,"Barrio":0.030,
-       "Punto carretera":0.030,"Puerto":0.030,"Instalación":0.030,"Sitio":0.030,"Tienda":0.030}
+       "Punto carretera":0.030,"Puerto":0.030,"Instalación":0.030,"Sitio":0.030,"Tienda":0.030,
+       "Calle":0.030,"Calzada":0.030,"Cantón":0.030,"Punto urbano":0.030,"Categoría interna":0.030}
 def buf_for(t): return BUF.get(str(t), 0.04)
 
 df = pd.read_csv(CSV, encoding="utf-8-sig")
