@@ -73,7 +73,10 @@ HTML = r"""<!DOCTYPE html>
     <div id="pane-ubi">
       <div class="card">
         <label for="q"><b>1) Buscar municipio, zona o aldea</b></label>
-        <input type="text" id="q" placeholder="Ej.: Mixco, Zona 10, Antigua, Amatitlán…" autocomplete="off" oninput="onType()">
+        <div class="toolbar" style="margin-top:6px">
+          <input type="text" id="q" placeholder="Ej.: Mixco, Zona 10, Antigua, Amatitlán…" autocomplete="off" oninput="onType()">
+          <button class="btn sec" onclick="clearLocation()" title="Quitar el marcador del mapa y borrar la búsqueda">✕ Limpiar</button>
+        </div>
         <ul class="matches" id="matches"></ul>
         <div class="hint">Escribe la ubicación del cliente tal como aparece en la promesa de entrega.</div>
       </div>
