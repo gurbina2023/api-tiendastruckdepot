@@ -26,7 +26,11 @@ class Handler(SimpleHTTPRequestHandler):
             super().do_GET()
 
     def geocode(self):
-        q = parse_qs(urlparse(self.path).query).get("q", [""])[0].strip()
+        qs = parse_qs(urlparse(self.path).query)
+        q = qs.get("q", [""])[0].strip()
+        country = qs.get("country", ["gt"])[0].strip().lower()
+        if country not in ("gt", "cr"):
+            country = "gt"
         if not GOOGLE_MAPS_API_KEY:
             return self.send_json(503, {"message": "El servidor no tiene configurada la variable GOOGLE_MAPS_API_KEY."})
         if not q or len(q) > 300:
@@ -34,7 +38,8 @@ class Handler(SimpleHTTPRequestHandler):
         url = (
             "https://maps.googleapis.com/maps/api/geocode/json?address=" + quote(q)
             + "&key=" + quote(GOOGLE_MAPS_API_KEY)
-            + "&components=country:GT&language=es&region=gt"
+            + "&components=country:" + country.upper()
+            + "&language=es&region=" + country
         )
         try:
             with urlopen(url, timeout=10) as r:

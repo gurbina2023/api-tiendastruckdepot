@@ -1,0 +1,11 @@
+Sucursal,Tienda (nombre oficial),Lat tienda,Lon tienda,Promesa de entrega,Minutos,Banda de tiempo,Destino,Tipo de destino,Departamento,Municipio,Sección/Depto. en lámina,Latitud,Longitud,"Coordenadas (lat, lon)",Confianza coordenada,Verificar en Google Maps,Lámina
+SAN JOSE,Truck Depot San José (SJS),9.953732,-84.109217,,,,Mostrador,Tienda,San José,San José,,9.953732,-84.109217,"9.953732, -84.109217",Exacta (tienda),Ver en mapa,
+SAN JOSE,Truck Depot San José (SJS),9.953732,-84.109217,12 horas (clientes nuevos),720,Hasta 12 hrs,San José - Clientes Nuevos,Municipio,San José,San José,,9.9326,-84.079,"9.9326, -84.079",Media,Ver en mapa,
+LIMON,Truck Depot Limón (LIM),9.984877,-83.062241,,,,Mostrador,Tienda,Limón,Limón,,9.984877,-83.062241,"9.984877, -83.062241",Exacta (tienda),Ver en mapa,
+LIMON,Truck Depot Limón (LIM),9.984877,-83.062241,45 minutos,45,Hasta 45 min,Limón - Casco Urbano,Cabecera,Limón,Limón,,9.9946,-83.0304,"9.9946, -83.0304",Media,Ver en mapa,
+CARTAGO,Truck Depot Cartago (CAR),9.875454,-83.942764,,,,Mostrador,Tienda,Cartago,Cartago,,9.875454,-83.942764,"9.875454, -83.942764",Exacta (tienda),Ver en mapa,
+CARTAGO,Truck Depot Cartago (CAR),9.875454,-83.942764,45 minutos,45,Hasta 45 min,Cartago - Casco Urbano,Cabecera,Cartago,Cartago,,9.8644,-83.9194,"9.8644, -83.9194",Media,Ver en mapa,
+CALDERA,Truck Depot Caldera (CAL),9.985306,-84.738858,,,,Mostrador,Tienda,Puntarenas,Puntarenas,,9.985306,-84.738858,"9.985306, -84.738858",Exacta (tienda),Ver en mapa,
+CALDERA,Truck Depot Caldera (CAL),9.985306,-84.738858,45 minutos,45,Hasta 45 min,Caldera - Casco Urbano,Cabecera,Puntarenas,Esparza,,9.9066,-84.7203,"9.9066, -84.7203",Media,Ver en mapa,
+LIBERIA,Truck Depot Liberia,10.629018,-85.445571,,,,Mostrador,Tienda,Guanacaste,Liberia,,10.629018,-85.445571,"10.629018, -85.445571",Exacta (tienda),Ver en mapa,
+MUELLE,Truck Depot Muelle,10.465357,-84.459221,,,,Mostrador,Tienda,Alajuela,San Carlos,,10.465357,-84.459221,"10.465357, -84.459221",Exacta (tienda),Ver en mapa,
