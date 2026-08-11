@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 import json
 
-# El token de Mapbox NO aparece en el HTML: la geocodificación la hace el
+# La clave de Google Maps NO aparece en el HTML: la geocodificación la hace el
 # servidor (server.py, endpoint /geocode) usando la variable de entorno
-# MAPBOX_TOKEN. El navegador de los usuarios nunca ve el token.
+# GOOGLE_MAPS_API_KEY. El navegador de los usuarios nunca ve la clave.
 payload = json.load(open("payload.json", encoding="utf-8"))
 n_branches = len(payload["branches"])
 n_places = len(payload["index"])
@@ -128,7 +128,7 @@ HTML = r"""<!DOCTYPE html>
 
 <script>
 /* La búsqueda de direcciones se hace a través del servidor (endpoint /geocode);
-   el token de Mapbox vive solo en el servidor y nunca llega a este navegador. */
+   la clave de Google Maps vive solo en el servidor y nunca llega a este navegador. */
 const DATA = /*DATA*/;
 const COLOR = {}; DATA.branches.forEach(b=>COLOR[b.name]=b.color);
 const norm = s => (s||"").normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().replace(/\s+/g,' ').trim();
@@ -233,8 +233,8 @@ function pip(lng,lat,ring){ let inside=false;
     if(((yi>lat)!==(yj>lat)) && (lng<(xj-xi)*(lat-yi)/(yj-yi)+xi)) inside=!inside; } return inside; }
 function inFeature(lng,lat,g){ if(g.type==='Polygon')return pip(lng,lat,g.coordinates[0]);
   if(g.type==='MultiPolygon')return g.coordinates.some(p=>pip(lng,lat,p[0])); return false; }
-/* ---- geocodificador: el servidor consulta Mapbox por nosotros (/geocode).
-        El token queda solo en el servidor; el navegador nunca lo ve. ---- */
+/* ---- geocodificador: el servidor consulta Google Maps por nosotros (/geocode).
+        La clave queda solo en el servidor; el navegador nunca la ve. ---- */
 function searchAddress(){
   const q=document.getElementById('addr').value.trim(); const box=document.getElementById('result');
   if(!q){ box.innerHTML='<div class="card muted">Escribe una dirección.</div>'; return; }
@@ -243,12 +243,8 @@ function searchAddress(){
    .then(function(r){ return r.json().then(function(d){ return {ok:r.ok, st:r.status, d:d}; }); })
    .then(function(o){
      if(!o.ok){ box.innerHTML='<div class="card muted">No se pudo buscar la dirección ('+o.st+'): '+((o.d&&o.d.message)||'')+'. Usa <b>Abrir en Google Maps ↗</b> y pega las coordenadas (en <b>Más opciones</b>).</div>'; const a=document.getElementById('advBox'); if(a) a.open=true; return; }
-     const f=o.d && o.d.features && o.d.features[0];
-     if(!f){ box.innerHTML='<div class="card muted">Mapbox no encontró esa dirección. Agrega detalle (zona, municipio, departamento).</div>'; return; }
-     const c=(f.geometry && f.geometry.coordinates) || f.center;
-     const p=f.properties || {};
-     const label=(p.full_address || p.place_formatted || p.name || f.place_name || 'Ubicación');
-     showPoint(c[1], c[0], String(label).split(',').slice(0,2).join(','));
+     if(!o.d || !o.d.found){ box.innerHTML='<div class="card muted">Google Maps no encontró esa dirección. Agrega detalle (zona, municipio, departamento).</div>'; return; }
+     showPoint(o.d.lat, o.d.lng, String(o.d.label||'Ubicación').split(',').slice(0,2).join(','));
    })
    .catch(function(e){ box.innerHTML='<div class="card muted">No se pudo conectar con el servidor de búsqueda. Usa <b>Abrir en Google Maps ↗</b> y pega las coordenadas (en <b>Más opciones</b>).</div>';
      const a=document.getElementById('advBox'); if(a) a.open=true; });
